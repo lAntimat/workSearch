@@ -1,0 +1,3 @@
+# Referenced at C:\Users\lAntimat\StudioProjects\work_search\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:26
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

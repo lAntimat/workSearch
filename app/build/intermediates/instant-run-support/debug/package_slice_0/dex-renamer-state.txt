@@ -1,0 +1,4 @@
+#Sat Feb 24 18:19:21 MSK 2018
+base.0=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\57
+path.0=classes.dex
+renamed.0=classes.dex

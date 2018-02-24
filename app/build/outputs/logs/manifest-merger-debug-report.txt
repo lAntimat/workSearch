@@ -1,0 +1,1119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:2:1-13:12
+MERGED from [com.jaredrummler:material-spinner:1.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.4.aar\441bda05e81775536c1e564ce00330d2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\bf4b8cf6e3666551aeb15a73abc5ea96\AndroidManifest.xml:2:1-8:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:2:1-76:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\28ada999e28fd08504dc4c1efd6ea950\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f26a84f27d1f672a2a0daab128f6e375\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ed1d50f6e61b31a353d0d06cb8bedcf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc0473a162392b6f6f2c930fc37285a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\f8cafcdb94878df9935a9f29b0cdbc86\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\82af576e6769a50049f765d502780cd6\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\f8f78994af752fbf765778e471f423b3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.8.0.aar\39d1e835f278d302987f14104bdd1c98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\ec58998f130df42ad8dd6a1a8e78a9f4\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.8.0.aar\53bd1b8792f1f544cda8090712be8cc4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\66d948d1095b821f3d51a4915880222d\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\e2d2ac9476d8da7f96ac824db00a86dc\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.8.0.aar\88cba9320cb6f1a68252cfd84e3ce8b9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.8.0.aar\04d6d7a239cf05661060c98914a0aa7f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\59c20487d3d185c300acfeb4fb35d1f6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\7616f19084c226e766b884750f1081bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.8.0.aar\1ed6e46658bad9d802ba2f4d10590152\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.8.0.aar\ad178d78ba6964a18d0f241cda73a34e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.8.0.aar\2d8705c4adb8b66ccde6f47296d39f5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.8.0.aar\aceb9b4caecaa3c2d9570208dfe2ffe3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.8.0.aar\02b86f0148f353c8253185831b3f5161\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\f5c47e7dc475c818ae152f26310eb39a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\db51ff8cb124473d9e9516fc4b9b631b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.8.0.aar\afea8ed901a6b4447222836ad559cc94\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.8.0.aar\6250e76dcbfd480a9ee7fccc7593c623\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.8.0.aar\4839d1724de4ab8735051cdafaed9efe\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.8.0.aar\d1be14e737f5e46aed80c7a7e7263caf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\13105e615516bf489e699c2da577ce32\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\8faf3db9cd369e12d927fb29fb4c169c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\ae3a81bbd9f5f1d44e6a30b1a009cc63\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9fd99e97e0b0b7bf0c121e22a6c84eb8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\fd42ecbc2216e6f61e1856c71afc75b6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\9acc8b3b2aa190afb50474de5317b16c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\ef65a2258187fb567c4f62099d44e29b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5996505e40a9e40d3e524b9751d09793\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8476cd931a2613f3fdd5e1b872d68b06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ca24d0b1a9763b55d50cbf025d3f95c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5301fde68e3e3d83780e7dd09db68d9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\21a97fa2d30f4775c86269e6dc58c6c5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\151338f8a566ea055c7211cc09add785\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\b58c65f72febb328fec45742ce1c3d15\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.8.0.aar\721f7bf472cef68b379a590b2127fb2d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.8.0.aar\26fcb7b2e93494e0cd8c1ef71a140ffa\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\4c1e8993dcdaf7a3ab5ff2015401f456\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\fb4ab00bf8af519051d08d703c7f2c60\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d15668ca0686e69fb646ef432a70ea7b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\c57aeccef506998b93dbd17fc2a319ed\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.8.0.aar\d7b9f0033bfb4f39000f3ce2e9cb50b0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.8.0.aar\2f671675e3cf3b35c74e11598fedea74\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.8.0.aar\5df1b35cc378d45a73dfbd4f78d514d2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.8.0.aar\c01aca925c8bc985797677247a2dfe33\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\76f774651d45d5679bed2ecd3c606cab\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\b6d23abf926af998357d981e664522ed\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.8.0.aar\7cd48c12e32c5ad2ff0eb7fa60f10195\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\607e86c7b493733f5e417f03060a3895\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\10f5282c38e968c5a9bb9e14b999ee4e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\9017440514c73b738386831a73492242\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\178c7ec8490c608d5d735efddd8b2dc2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\7e98835fd1dc3f5e3b485857778de0a0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\d60a6ac95d19a5a76b5f6e3e634e52dc\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\7c9c18a3298d3ab07fd769ea07b606dd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.8.0.aar\3cf332383ee3e4b0994bc900dc5b5818\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\49c7d3621c2ead37c114361dafd82aee\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\4d14aa25ed3fb7af4ea96c370b2ee814\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\8f9c0243bcd2a96b923445adb4d4bf09\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.8.0.aar\cc50f2e922ac5ccd62258c388c3a87f4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.8.0.aar\73007b39c89d94bf45d5c1a31cf44e78\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\b2f03f4135844db387fc7d686a58e8de\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.8.0.aar\4fc3e27c07aee734b95f9ae4d5e22f7c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fccf44794f70a42767092815eb4a1bc0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\927c5132c2ea6d8f3b02035bb815db6e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\066831eafdc4032360cc14fc14b63ac5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\e840bd0459532d460a79c0235fcba2db\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.8.0.aar\6a84ea1607504a36b2a521ee204bc1a5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.8.0.aar\70cc575fd8471ab5f9cabb20f7b68dc5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\5c3ba43d54b4469571b5f817e9ee9242\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.8.0.aar\d9937abbbc4d9580dd0cbcfabb381977\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.8.0.aar\41837b73e0b2f8dae333de6d91c745d2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.8.0.aar\4eafcbbac906e202666f6ecaef500517\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.8.0.aar\586cbf5270f44a114bb8687ebf4a80bb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.8.0.aar\d270ef294e24e2890acf7080caf15b99\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\5d930c8f68f9f15e0e5f3994535bd967\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\8bee734e645a3fab99270d088fc351c1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.8.0.aar\28939dbbae0c61e0c90fd05c71026248\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\5321ecdf8b65eda5eb901578ce2b8c95\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5a2ff26a28e062859482f26bfc46fb8d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:11:5-47
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:11:5-47
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:15:5-74:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:15:5-74:19
+MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:22:5-30:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\f8f78994af752fbf765778e471f423b3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\f8f78994af752fbf765778e471f423b3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.8.0.aar\53bd1b8792f1f544cda8090712be8cc4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.8.0.aar\53bd1b8792f1f544cda8090712be8cc4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.8.0.aar\88cba9320cb6f1a68252cfd84e3ce8b9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.8.0.aar\88cba9320cb6f1a68252cfd84e3ce8b9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.8.0.aar\04d6d7a239cf05661060c98914a0aa7f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.8.0.aar\04d6d7a239cf05661060c98914a0aa7f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\59c20487d3d185c300acfeb4fb35d1f6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\59c20487d3d185c300acfeb4fb35d1f6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\7616f19084c226e766b884750f1081bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\7616f19084c226e766b884750f1081bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.8.0.aar\1ed6e46658bad9d802ba2f4d10590152\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.8.0.aar\1ed6e46658bad9d802ba2f4d10590152\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.8.0.aar\ad178d78ba6964a18d0f241cda73a34e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.8.0.aar\ad178d78ba6964a18d0f241cda73a34e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.8.0.aar\aceb9b4caecaa3c2d9570208dfe2ffe3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.8.0.aar\aceb9b4caecaa3c2d9570208dfe2ffe3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\f5c47e7dc475c818ae152f26310eb39a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\f5c47e7dc475c818ae152f26310eb39a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\db51ff8cb124473d9e9516fc4b9b631b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\db51ff8cb124473d9e9516fc4b9b631b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.8.0.aar\afea8ed901a6b4447222836ad559cc94\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.8.0.aar\afea8ed901a6b4447222836ad559cc94\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.8.0.aar\6250e76dcbfd480a9ee7fccc7593c623\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.8.0.aar\6250e76dcbfd480a9ee7fccc7593c623\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.8.0.aar\4839d1724de4ab8735051cdafaed9efe\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.8.0.aar\4839d1724de4ab8735051cdafaed9efe\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.8.0.aar\d1be14e737f5e46aed80c7a7e7263caf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.8.0.aar\d1be14e737f5e46aed80c7a7e7263caf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\13105e615516bf489e699c2da577ce32\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\13105e615516bf489e699c2da577ce32\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\8faf3db9cd369e12d927fb29fb4c169c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\8faf3db9cd369e12d927fb29fb4c169c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\ae3a81bbd9f5f1d44e6a30b1a009cc63\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\ae3a81bbd9f5f1d44e6a30b1a009cc63\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9fd99e97e0b0b7bf0c121e22a6c84eb8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9fd99e97e0b0b7bf0c121e22a6c84eb8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\ef65a2258187fb567c4f62099d44e29b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\ef65a2258187fb567c4f62099d44e29b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\21a97fa2d30f4775c86269e6dc58c6c5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\21a97fa2d30f4775c86269e6dc58c6c5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\151338f8a566ea055c7211cc09add785\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\151338f8a566ea055c7211cc09add785\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\b58c65f72febb328fec45742ce1c3d15\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\b58c65f72febb328fec45742ce1c3d15\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.8.0.aar\721f7bf472cef68b379a590b2127fb2d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.8.0.aar\721f7bf472cef68b379a590b2127fb2d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.8.0.aar\26fcb7b2e93494e0cd8c1ef71a140ffa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.8.0.aar\26fcb7b2e93494e0cd8c1ef71a140ffa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\4c1e8993dcdaf7a3ab5ff2015401f456\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\4c1e8993dcdaf7a3ab5ff2015401f456\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\fb4ab00bf8af519051d08d703c7f2c60\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\fb4ab00bf8af519051d08d703c7f2c60\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d15668ca0686e69fb646ef432a70ea7b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d15668ca0686e69fb646ef432a70ea7b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\c57aeccef506998b93dbd17fc2a319ed\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\c57aeccef506998b93dbd17fc2a319ed\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.8.0.aar\d7b9f0033bfb4f39000f3ce2e9cb50b0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.8.0.aar\d7b9f0033bfb4f39000f3ce2e9cb50b0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.8.0.aar\2f671675e3cf3b35c74e11598fedea74\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.8.0.aar\2f671675e3cf3b35c74e11598fedea74\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.8.0.aar\5df1b35cc378d45a73dfbd4f78d514d2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.8.0.aar\5df1b35cc378d45a73dfbd4f78d514d2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.8.0.aar\c01aca925c8bc985797677247a2dfe33\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.8.0.aar\c01aca925c8bc985797677247a2dfe33\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\76f774651d45d5679bed2ecd3c606cab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\76f774651d45d5679bed2ecd3c606cab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\b6d23abf926af998357d981e664522ed\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\b6d23abf926af998357d981e664522ed\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.8.0.aar\7cd48c12e32c5ad2ff0eb7fa60f10195\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.8.0.aar\7cd48c12e32c5ad2ff0eb7fa60f10195\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\607e86c7b493733f5e417f03060a3895\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\607e86c7b493733f5e417f03060a3895\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\10f5282c38e968c5a9bb9e14b999ee4e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\10f5282c38e968c5a9bb9e14b999ee4e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\9017440514c73b738386831a73492242\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\9017440514c73b738386831a73492242\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\178c7ec8490c608d5d735efddd8b2dc2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\178c7ec8490c608d5d735efddd8b2dc2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\7e98835fd1dc3f5e3b485857778de0a0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\7e98835fd1dc3f5e3b485857778de0a0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\d60a6ac95d19a5a76b5f6e3e634e52dc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\d60a6ac95d19a5a76b5f6e3e634e52dc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\7c9c18a3298d3ab07fd769ea07b606dd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\7c9c18a3298d3ab07fd769ea07b606dd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.8.0.aar\3cf332383ee3e4b0994bc900dc5b5818\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.8.0.aar\3cf332383ee3e4b0994bc900dc5b5818\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\49c7d3621c2ead37c114361dafd82aee\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\49c7d3621c2ead37c114361dafd82aee\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\4d14aa25ed3fb7af4ea96c370b2ee814\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\4d14aa25ed3fb7af4ea96c370b2ee814\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\8f9c0243bcd2a96b923445adb4d4bf09\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\8f9c0243bcd2a96b923445adb4d4bf09\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.8.0.aar\cc50f2e922ac5ccd62258c388c3a87f4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.8.0.aar\cc50f2e922ac5ccd62258c388c3a87f4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.8.0.aar\73007b39c89d94bf45d5c1a31cf44e78\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.8.0.aar\73007b39c89d94bf45d5c1a31cf44e78\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\b2f03f4135844db387fc7d686a58e8de\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\b2f03f4135844db387fc7d686a58e8de\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.8.0.aar\4fc3e27c07aee734b95f9ae4d5e22f7c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.8.0.aar\4fc3e27c07aee734b95f9ae4d5e22f7c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fccf44794f70a42767092815eb4a1bc0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fccf44794f70a42767092815eb4a1bc0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\927c5132c2ea6d8f3b02035bb815db6e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\927c5132c2ea6d8f3b02035bb815db6e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\066831eafdc4032360cc14fc14b63ac5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\066831eafdc4032360cc14fc14b63ac5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\e840bd0459532d460a79c0235fcba2db\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\e840bd0459532d460a79c0235fcba2db\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.8.0.aar\6a84ea1607504a36b2a521ee204bc1a5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.8.0.aar\6a84ea1607504a36b2a521ee204bc1a5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.8.0.aar\70cc575fd8471ab5f9cabb20f7b68dc5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.8.0.aar\70cc575fd8471ab5f9cabb20f7b68dc5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\5c3ba43d54b4469571b5f817e9ee9242\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\5c3ba43d54b4469571b5f817e9ee9242\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.8.0.aar\d9937abbbc4d9580dd0cbcfabb381977\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.8.0.aar\d9937abbbc4d9580dd0cbcfabb381977\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.8.0.aar\41837b73e0b2f8dae333de6d91c745d2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.8.0.aar\41837b73e0b2f8dae333de6d91c745d2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.8.0.aar\4eafcbbac906e202666f6ecaef500517\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.8.0.aar\4eafcbbac906e202666f6ecaef500517\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.8.0.aar\586cbf5270f44a114bb8687ebf4a80bb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.8.0.aar\586cbf5270f44a114bb8687ebf4a80bb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.8.0.aar\d270ef294e24e2890acf7080caf15b99\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.8.0.aar\d270ef294e24e2890acf7080caf15b99\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\5d930c8f68f9f15e0e5f3994535bd967\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\5d930c8f68f9f15e0e5f3994535bd967\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\8bee734e645a3fab99270d088fc351c1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\8bee734e645a3fab99270d088fc351c1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.8.0.aar\28939dbbae0c61e0c90fd05c71026248\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.8.0.aar\28939dbbae0c61e0c90fd05c71026248\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\5321ecdf8b65eda5eb901578ce2b8c95\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\5321ecdf8b65eda5eb901578ce2b8c95\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:14:9-68
+activity#ru.lantimat.worksearch.MainActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:19:27-74
+activity#ru.lantimat.worksearch.GoogleFormActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:19-53
+uses-sdk
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaredrummler:material-spinner:1.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.4.aar\441bda05e81775536c1e564ce00330d2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jaredrummler:material-spinner:1.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.4.aar\441bda05e81775536c1e564ce00330d2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\bf4b8cf6e3666551aeb15a73abc5ea96\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\bf4b8cf6e3666551aeb15a73abc5ea96\AndroidManifest.xml:6:5-44
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\28ada999e28fd08504dc4c1efd6ea950\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\28ada999e28fd08504dc4c1efd6ea950\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f26a84f27d1f672a2a0daab128f6e375\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f26a84f27d1f672a2a0daab128f6e375\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ed1d50f6e61b31a353d0d06cb8bedcf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ed1d50f6e61b31a353d0d06cb8bedcf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc0473a162392b6f6f2c930fc37285a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc0473a162392b6f6f2c930fc37285a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\f8cafcdb94878df9935a9f29b0cdbc86\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\f8cafcdb94878df9935a9f29b0cdbc86\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\82af576e6769a50049f765d502780cd6\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\82af576e6769a50049f765d502780cd6\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\f8f78994af752fbf765778e471f423b3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.8.0.aar\f8f78994af752fbf765778e471f423b3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.8.0.aar\39d1e835f278d302987f14104bdd1c98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.8.0.aar\39d1e835f278d302987f14104bdd1c98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\ec58998f130df42ad8dd6a1a8e78a9f4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\ec58998f130df42ad8dd6a1a8e78a9f4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.8.0.aar\53bd1b8792f1f544cda8090712be8cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.8.0.aar\53bd1b8792f1f544cda8090712be8cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\66d948d1095b821f3d51a4915880222d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\66d948d1095b821f3d51a4915880222d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\e2d2ac9476d8da7f96ac824db00a86dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\e2d2ac9476d8da7f96ac824db00a86dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.8.0.aar\88cba9320cb6f1a68252cfd84e3ce8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.8.0.aar\88cba9320cb6f1a68252cfd84e3ce8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.8.0.aar\04d6d7a239cf05661060c98914a0aa7f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.8.0.aar\04d6d7a239cf05661060c98914a0aa7f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\59c20487d3d185c300acfeb4fb35d1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-11.8.0.aar\59c20487d3d185c300acfeb4fb35d1f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\7616f19084c226e766b884750f1081bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.8.0.aar\7616f19084c226e766b884750f1081bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.8.0.aar\1ed6e46658bad9d802ba2f4d10590152\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.8.0.aar\1ed6e46658bad9d802ba2f4d10590152\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.8.0.aar\ad178d78ba6964a18d0f241cda73a34e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.8.0.aar\ad178d78ba6964a18d0f241cda73a34e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.8.0.aar\2d8705c4adb8b66ccde6f47296d39f5e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.8.0.aar\2d8705c4adb8b66ccde6f47296d39f5e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.8.0.aar\aceb9b4caecaa3c2d9570208dfe2ffe3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.8.0.aar\aceb9b4caecaa3c2d9570208dfe2ffe3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.8.0.aar\02b86f0148f353c8253185831b3f5161\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.8.0.aar\02b86f0148f353c8253185831b3f5161\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\f5c47e7dc475c818ae152f26310eb39a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\f5c47e7dc475c818ae152f26310eb39a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\db51ff8cb124473d9e9516fc4b9b631b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\db51ff8cb124473d9e9516fc4b9b631b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.8.0.aar\afea8ed901a6b4447222836ad559cc94\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.8.0.aar\afea8ed901a6b4447222836ad559cc94\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.8.0.aar\6250e76dcbfd480a9ee7fccc7593c623\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.8.0.aar\6250e76dcbfd480a9ee7fccc7593c623\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.8.0.aar\4839d1724de4ab8735051cdafaed9efe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.8.0.aar\4839d1724de4ab8735051cdafaed9efe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.8.0.aar\d1be14e737f5e46aed80c7a7e7263caf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.8.0.aar\d1be14e737f5e46aed80c7a7e7263caf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\13105e615516bf489e699c2da577ce32\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.8.0.aar\13105e615516bf489e699c2da577ce32\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\8faf3db9cd369e12d927fb29fb4c169c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.8.0.aar\8faf3db9cd369e12d927fb29fb4c169c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\ae3a81bbd9f5f1d44e6a30b1a009cc63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\ae3a81bbd9f5f1d44e6a30b1a009cc63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9fd99e97e0b0b7bf0c121e22a6c84eb8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9fd99e97e0b0b7bf0c121e22a6c84eb8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\fd42ecbc2216e6f61e1856c71afc75b6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\fd42ecbc2216e6f61e1856c71afc75b6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\9acc8b3b2aa190afb50474de5317b16c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\9acc8b3b2aa190afb50474de5317b16c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\ef65a2258187fb567c4f62099d44e29b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\ef65a2258187fb567c4f62099d44e29b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5996505e40a9e40d3e524b9751d09793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5996505e40a9e40d3e524b9751d09793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8476cd931a2613f3fdd5e1b872d68b06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8476cd931a2613f3fdd5e1b872d68b06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ca24d0b1a9763b55d50cbf025d3f95c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ca24d0b1a9763b55d50cbf025d3f95c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5301fde68e3e3d83780e7dd09db68d9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5301fde68e3e3d83780e7dd09db68d9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\21a97fa2d30f4775c86269e6dc58c6c5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\21a97fa2d30f4775c86269e6dc58c6c5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\151338f8a566ea055c7211cc09add785\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\151338f8a566ea055c7211cc09add785\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\b58c65f72febb328fec45742ce1c3d15\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\b58c65f72febb328fec45742ce1c3d15\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.8.0.aar\721f7bf472cef68b379a590b2127fb2d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.8.0.aar\721f7bf472cef68b379a590b2127fb2d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.8.0.aar\26fcb7b2e93494e0cd8c1ef71a140ffa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.8.0.aar\26fcb7b2e93494e0cd8c1ef71a140ffa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\4c1e8993dcdaf7a3ab5ff2015401f456\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.8.0.aar\4c1e8993dcdaf7a3ab5ff2015401f456\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\fb4ab00bf8af519051d08d703c7f2c60\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\fb4ab00bf8af519051d08d703c7f2c60\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d15668ca0686e69fb646ef432a70ea7b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\d15668ca0686e69fb646ef432a70ea7b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\c57aeccef506998b93dbd17fc2a319ed\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\c57aeccef506998b93dbd17fc2a319ed\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.8.0.aar\d7b9f0033bfb4f39000f3ce2e9cb50b0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.8.0.aar\d7b9f0033bfb4f39000f3ce2e9cb50b0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.8.0.aar\2f671675e3cf3b35c74e11598fedea74\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.8.0.aar\2f671675e3cf3b35c74e11598fedea74\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.8.0.aar\5df1b35cc378d45a73dfbd4f78d514d2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.8.0.aar\5df1b35cc378d45a73dfbd4f78d514d2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.8.0.aar\c01aca925c8bc985797677247a2dfe33\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.8.0.aar\c01aca925c8bc985797677247a2dfe33\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\76f774651d45d5679bed2ecd3c606cab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-11.8.0.aar\76f774651d45d5679bed2ecd3c606cab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\b6d23abf926af998357d981e664522ed\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.8.0.aar\b6d23abf926af998357d981e664522ed\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.8.0.aar\7cd48c12e32c5ad2ff0eb7fa60f10195\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.8.0.aar\7cd48c12e32c5ad2ff0eb7fa60f10195\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\607e86c7b493733f5e417f03060a3895\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\607e86c7b493733f5e417f03060a3895\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\10f5282c38e968c5a9bb9e14b999ee4e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\10f5282c38e968c5a9bb9e14b999ee4e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\9017440514c73b738386831a73492242\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.8.0.aar\9017440514c73b738386831a73492242\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\178c7ec8490c608d5d735efddd8b2dc2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\178c7ec8490c608d5d735efddd8b2dc2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\7e98835fd1dc3f5e3b485857778de0a0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.8.0.aar\7e98835fd1dc3f5e3b485857778de0a0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\d60a6ac95d19a5a76b5f6e3e634e52dc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\d60a6ac95d19a5a76b5f6e3e634e52dc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\7c9c18a3298d3ab07fd769ea07b606dd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\7c9c18a3298d3ab07fd769ea07b606dd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.8.0.aar\3cf332383ee3e4b0994bc900dc5b5818\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.8.0.aar\3cf332383ee3e4b0994bc900dc5b5818\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\49c7d3621c2ead37c114361dafd82aee\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.8.0.aar\49c7d3621c2ead37c114361dafd82aee\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\4d14aa25ed3fb7af4ea96c370b2ee814\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\4d14aa25ed3fb7af4ea96c370b2ee814\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\8f9c0243bcd2a96b923445adb4d4bf09\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\8f9c0243bcd2a96b923445adb4d4bf09\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.8.0.aar\cc50f2e922ac5ccd62258c388c3a87f4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.8.0.aar\cc50f2e922ac5ccd62258c388c3a87f4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.8.0.aar\73007b39c89d94bf45d5c1a31cf44e78\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.8.0.aar\73007b39c89d94bf45d5c1a31cf44e78\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\b2f03f4135844db387fc7d686a58e8de\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\b2f03f4135844db387fc7d686a58e8de\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.8.0.aar\4fc3e27c07aee734b95f9ae4d5e22f7c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.8.0.aar\4fc3e27c07aee734b95f9ae4d5e22f7c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fccf44794f70a42767092815eb4a1bc0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\fccf44794f70a42767092815eb4a1bc0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\927c5132c2ea6d8f3b02035bb815db6e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\927c5132c2ea6d8f3b02035bb815db6e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\066831eafdc4032360cc14fc14b63ac5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\066831eafdc4032360cc14fc14b63ac5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\e840bd0459532d460a79c0235fcba2db\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\e840bd0459532d460a79c0235fcba2db\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.8.0.aar\6a84ea1607504a36b2a521ee204bc1a5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.8.0.aar\6a84ea1607504a36b2a521ee204bc1a5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.8.0.aar\70cc575fd8471ab5f9cabb20f7b68dc5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.8.0.aar\70cc575fd8471ab5f9cabb20f7b68dc5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\5c3ba43d54b4469571b5f817e9ee9242\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\5c3ba43d54b4469571b5f817e9ee9242\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.8.0.aar\d9937abbbc4d9580dd0cbcfabb381977\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.8.0.aar\d9937abbbc4d9580dd0cbcfabb381977\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.8.0.aar\41837b73e0b2f8dae333de6d91c745d2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.8.0.aar\41837b73e0b2f8dae333de6d91c745d2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.8.0.aar\4eafcbbac906e202666f6ecaef500517\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.8.0.aar\4eafcbbac906e202666f6ecaef500517\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.8.0.aar\586cbf5270f44a114bb8687ebf4a80bb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.8.0.aar\586cbf5270f44a114bb8687ebf4a80bb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.8.0.aar\d270ef294e24e2890acf7080caf15b99\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.8.0.aar\d270ef294e24e2890acf7080caf15b99\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\5d930c8f68f9f15e0e5f3994535bd967\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.8.0.aar\5d930c8f68f9f15e0e5f3994535bd967\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\8bee734e645a3fab99270d088fc351c1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.8.0.aar\8bee734e645a3fab99270d088fc351c1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.8.0.aar\28939dbbae0c61e0c90fd05c71026248\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.8.0.aar\28939dbbae0c61e0c90fd05c71026248\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\5321ecdf8b65eda5eb901578ce2b8c95\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\5321ecdf8b65eda5eb901578ce2b8c95\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5a2ff26a28e062859482f26bfc46fb8d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5a2ff26a28e062859482f26bfc46fb8d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.8.0.aar\afea8ed901a6b4447222836ad559cc94\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.8.0.aar\afea8ed901a6b4447222836ad559cc94\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:20:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:22:9-24:36
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:24:13-33
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:23:13-68
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:26:9-30:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:29:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:27:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:31:9-34:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:34:13-72
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:32:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:38:13-56
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:36:13-79
+activity#com.firebase.ui.auth.ui.phone.PhoneVerificationActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:39:9-43:64
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:42:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:43:13-61
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:40:13-83
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:44:9-47:73
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:45:13-84
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:48:9-51:78
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:51:13-75
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:49:13-89
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:52:9-55:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:55:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:53:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:56:9-60:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:59:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:58:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:57:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:61:9-73:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:63:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:62:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:65:13-72:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:66:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:68:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:68:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:69:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:69:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:71:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:71:23-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:27:13-51
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:11:18-90
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:26:13-76
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:30:25-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.8.0.aar\4fb1917102c756ac22c24a86eea70d83\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.8.0.aar\ddafb9672c4a77a67e841afa1a45c169\AndroidManifest.xml:33:13-87
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.8.0.aar\c6f8f570bca07b6314e29b0f46356c72\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\d5c9a3e380b72ba6c71180c6be4a0e3f\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6b13c7ceafc5ee172a9e57ac6bee56d0\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\897dd531cd8ce05060bc08d8397adf17\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a03fb3f5053bf861401a9f6725548e62\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:29:9-63
+permission#ru.lantimat.worksearch.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:32:22-76
+uses-permission#ru.lantimat.worksearch.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:39:13-43:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+ru.lantimat.worksearch
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:42:27-58
+category#ru.lantimat.worksearch
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\9306ad73bdde1d9256aca34ab1304bc5\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\d8c72d17364325e15fbfe97e369f0752\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\ce5be36ac1071ba4f7950ba4ecc2a4ee\AndroidManifest.xml:34:13-89
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.8.0.aar\cb6a39c2a58c52e6d265013da23caba8\AndroidManifest.xml:41:13-80
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\01edec78795b47ceb6a3411b545c5177\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d3d58d3cfbf986e3e76208a8d8698fe9\AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\3e34ed9b129bf46e73083404ba6b8521\AndroidManifest.xml:30:13-65
