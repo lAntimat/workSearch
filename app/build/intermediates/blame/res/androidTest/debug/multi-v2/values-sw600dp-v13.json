@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\436da9283fa3f149d607f991fb59f4fd\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "22,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "1406,1475",
+                        "endColumns": "68,68",
+                        "endOffsets": "1470,1539"
+                    }
+                },
+                {
                     "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\f26a84f27d1f672a2a0daab128f6e375\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -31,20 +48,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\71b582b77f506528d1c47ba3e81fcbd0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\materialize-1.1.2.aar\\07f1eea0464424df9e4b0472e5ff6438\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,124",
-                        "endColumns": "68,68",
-                        "endOffsets": "119,188"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
                     },
                     "to": {
-                        "startLines": "20,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "1287,1356",
-                        "endColumns": "68,68",
-                        "endOffsets": "1351,1420"
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1351",
+                        "endColumns": "54",
+                        "endOffsets": "1401"
                     }
                 },
                 {
@@ -58,12 +75,29 @@
                         "endOffsets": "110,180,251,323,381,439,545,609,672,854"
                     },
                     "to": {
-                        "startLines": "12,13,14,15,16,17,18,19,22,23",
+                        "startLines": "12,13,14,15,16,17,18,19,24,25",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "728,788,858,929,1001,1059,1117,1223,1425,1488",
-                        "endLines": "12,13,14,15,16,17,18,19,22,26",
+                        "startOffsets": "728,788,858,929,1001,1059,1117,1223,1544,1607",
+                        "endLines": "12,13,14,15,16,17,18,19,24,28",
                         "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "783,853,924,996,1054,1112,1218,1282,1483,1665"
+                        "endOffsets": "783,853,924,996,1054,1112,1218,1282,1602,1784"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\materialdrawer-6.0.6.aar\\58b9f41b5ea8853486aecf5ef110b3e8\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1287",
+                        "endColumns": "63",
+                        "endOffsets": "1346"
                     }
                 }
             ]

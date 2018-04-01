@@ -4,7 +4,17 @@
             "outputFile": "C:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\71b582b77f506528d1c47ba3e81fcbd0\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\appintro-v4.2.3.aar\\e471318f7641335512a4f8a3c5e9cffe\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,58",
+                        "endOffsets": "108,167"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\436da9283fa3f149d607f991fb59f4fd\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "172,241",
                         "endColumns": "68,68",
                         "endOffsets": "236,305"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\appintro-v4.2.3.aar\\e471318f7641335512a4f8a3c5e9cffe\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,58",
-                        "endOffsets": "108,167"
                     }
                 }
             ]

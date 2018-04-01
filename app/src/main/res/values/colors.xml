@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#303f9f</color>
     <color name="colorAccent">#FF4081</color>
 
     <color name="red_50">#FFEBEE</color>
@@ -291,4 +291,7 @@
     <color name="dark_bg_light_secondary_text">#B3FFFFFF</color>
     <color name="dark_bg_light_disabled_text">#80FFFFFF</color>
     <color name="dark_bg_light_hint_text">#80FFFFFF</color>
+
+    <color name="transparent">#00ffffff</color>
+
 </resources>

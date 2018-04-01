@@ -33,15 +33,17 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="ru.lantimat.worksearch.MainActivity" >
+        <activity android:name="ru.lantimat.worksearch.FeedActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ru.lantimat.worksearch.GoogleFormActivity" >
-        </activity>
+        <activity android:name="ru.lantimat.worksearch.googleForm.GoogleFormActivity" />
+        <activity android:name="ru.lantimat.worksearch.MainActivity2" />
+        <activity android:name="ru.lantimat.worksearch.MainActivity" />
+        <activity android:name="ru.lantimat.worksearch.feeds.full.FullNewsActivity" />
 
         <meta-data
             android:name="com.google.android.gms.version"
@@ -116,6 +118,12 @@
             android:launchMode="singleInstance"
             android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="ru.lantimat.worksearch.com.squareup.picasso"
+            android:exported="false" />
+
         <activity
             android:name="com.google.android.gms.appinvite.PreviewActivity"
             android:exported="true"

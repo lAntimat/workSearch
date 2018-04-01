@@ -88,6 +88,8 @@
     <string name="fui_welcome_back_idp_header" translation_description="Inline subtitle to users whose signup was interrupted since an existing account was detected">Você já tem uma conta</string>
     <string name="fui_welcome_back_idp_prompt" translation_description="Message to users that need to signin using existing IDP accounts">Você já usou o e-mail %1$s. Faça login com o %2$s para continuar.</string>
     <string name="fui_welcome_back_password_prompt_body" translation_description="Message to users that need to signin using existing email accounts">Você já usou o e-mail %1$s para fazer login. Insira a senha dessa conta.</string>
+    <string name="material_drawer_close">Fechar</string>
+    <string name="material_drawer_open">Abrir</string>
     <string msgid="3698378085901466129" name="mr_button_content_description">"Botão Transmitir"</string>
     <string msgid="5088427771788648085" name="mr_cast_button_connected">"Botão \"Transmitir\". Conectado"</string>
     <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Botão \"Transmitir\". Conectando"</string>

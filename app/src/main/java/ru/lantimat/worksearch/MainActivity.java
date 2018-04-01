@@ -1,158 +1,292 @@
 package ru.lantimat.worksearch;
 
+import android.content.Context;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+import android.graphics.Color;
+import android.graphics.drawable.Drawable;
+import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
+import android.support.design.widget.AppBarLayout;
+import android.support.design.widget.CoordinatorLayout;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.Spinner;
 
 import com.firebase.ui.auth.AuthUI;
-import com.firebase.ui.auth.IdpResponse;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.loopj.android.http.AsyncHttpClient;
-import com.loopj.android.http.AsyncHttpResponseHandler;
-import com.loopj.android.http.JsonHttpResponseHandler;
-import com.loopj.android.http.PersistentCookieStore;
-import com.loopj.android.http.RequestParams;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
+import com.google.firebase.firestore.FirebaseFirestore;
+import com.mikepenz.materialdrawer.AccountHeader;
+import com.mikepenz.materialdrawer.AccountHeaderBuilder;
+import com.mikepenz.materialdrawer.Drawer;
+import com.mikepenz.materialdrawer.DrawerBuilder;
+import com.mikepenz.materialdrawer.holder.StringHolder;
+import com.mikepenz.materialdrawer.model.DividerDrawerItem;
+import com.mikepenz.materialdrawer.model.PrimaryDrawerItem;
+import com.mikepenz.materialdrawer.model.ProfileDrawerItem;
+import com.mikepenz.materialdrawer.model.SecondaryDrawerItem;
+import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
+import com.mikepenz.materialdrawer.util.DrawerImageLoader;
+import com.squareup.picasso.Picasso;
 
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-import cz.msebera.android.httpclient.Header;
-import cz.msebera.android.httpclient.impl.cookie.BasicClientCookie;
+import ru.lantimat.worksearch.feeds.List.News;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String TAG = "MainActivity";
+    public final static String TAG = "MainActivity";
     private static final int RC_SIGN_IN = 123;
+
+
+    public Toolbar toolbar;
+    public Spinner spinner;
+    public AppBarLayout appBarLayout;
+    public Drawer result;
+    public AccountHeader headerResult;
+    public FrameLayout frameLayout;
+    public FrameLayout frameLayout2;
+    public CoordinatorLayout topLayout;
+    Intent drawerIntent = null;
+    boolean dontFinish = false;
+    SecondaryDrawerItem sign_exit;
+    int color;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //initGoogleForm();
-        //getGoogleForm();
+        topLayout = findViewById(R.id.coordinator);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setTitleTextColor(Color.WHITE);
+        setSupportActionBar(toolbar);
+
+        appBarLayout = findViewById(R.id.appbar);
+        frameLayout = (FrameLayout)findViewById(R.id.content_frame);
+        frameLayout2 = (FrameLayout)findViewById(R.id.content_frame2);
+
+        spinner = (Spinner) findViewById(R.id.spinner_nav);
+        spinner.setVisibility(View.INVISIBLE);
+
+        color = ContextCompat.getColor(getApplicationContext(), R.color.accent);
+
+        getSupportActionBar().setTitle("");
+
+        DrawerImageLoader.init(new DrawerImageLoader.IDrawerImageLoader() {
+            @Override
+            public void set(ImageView imageView, Uri uri, Drawable placeholder) {
+                Picasso.get().load(uri).placeholder(placeholder).into(imageView);
+            }
+
+            @Override
+            public void set(ImageView imageView, Uri uri, Drawable placeholder, String tag) {
+                Picasso.get().load(uri).placeholder(placeholder).fit().into(imageView);
+
+            }
+
+            @Override
+            public void cancel(ImageView imageView) {
+                Picasso.get().cancelRequest(imageView);
+            }
+
+            @Override
+            public Drawable placeholder(Context ctx) {
+                return ContextCompat.getDrawable(ctx, R.mipmap.ic_launcher);
+            }
+
+            @Override
+            public Drawable placeholder(Context ctx, String tag) {
+                return ContextCompat.getDrawable(ctx, R.mipmap.ic_launcher);
+            }
+        });
 
 
-    }
+        initAccountHeader();
+        if(result==null){
+            setupNavigationDrawer();
+        }
 
-     public void googleFormOpen(View view) {
-         FirebaseUser firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
-         if(firebaseUser!=null) {
-             startActivity(new Intent(this, GoogleFormActivity.class));
-         } else {
-             firebaseAuth();
-         }
-     }
-
-     public void firebaseAuth() {
-         // Choose authentication providers
-         List<AuthUI.IdpConfig> providers = Arrays.asList(
-                 //new AuthUI.IdpConfig.Builder(AuthUI.EMAIL_PROVIDER).build(),
-                 new AuthUI.IdpConfig.Builder(AuthUI.PHONE_VERIFICATION_PROVIDER).build()
-                 //new AuthUI.IdpConfig.Builder(AuthUI.GOOGLE_PROVIDER).build(),
-                 //new AuthUI.IdpConfig.Builder(AuthUI.FACEBOOK_PROVIDER).build(),
-                 //new AuthUI.IdpConfig.Builder(AuthUI.TWITTER_PROVIDER).build()
-         );
-
-// Create and launch sign-in intent
-         startActivityForResult(
-                 AuthUI.getInstance()
-                         .createSignInIntentBuilder()
-                         .setAvailableProviders(providers)
-                         .setTheme(R.style.AppTheme)
-                         .build(),
-                 RC_SIGN_IN);
-     }
+        addNews();
+    }//
 
     @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
+    protected void onStart() {
+        super.onStart();
+    }
 
-        if (requestCode == RC_SIGN_IN) {
-            IdpResponse response = IdpResponse.fromResultIntent(data);
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
 
-            if (resultCode == RESULT_OK) {
-                // Successfully signed in
-                FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-                //startActivity(new Intent(this, GoogleFormActivity.class));
-                // ...
-            } else {
-                // Sign in failed, check response for error code
-                // ...
-            }
+    @Override
+    protected void onPostResume() {
+        //startActivity(new Intent(MainActivity.this, LoginActivity.class));
+        //Log.d("OnPostResume", "WTF");
+        super.onPostResume();
+    }
+
+    public void updateDrawer() {
+        StringHolder stringHolder;
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        if(user!=null) stringHolder = new StringHolder(R.string.drawer_item_exit);
+        else stringHolder = new StringHolder(R.string.drawer_item_sign_in);
+        result.updateName(6, stringHolder);
+    }
+
+    public void updateAccount() {
+        String fullName = "";
+        String group = "";
+        ProfileDrawerItem profileDrawerItem = null;
+
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        if(user!=null) {
+            profileDrawerItem = new ProfileDrawerItem()
+                    .withName(user.getDisplayName())
+                    .withEmail(user.getPhoneNumber())
+                    .withIcon(R.mipmap.ic_launcher);
+
+            headerResult.updateProfile(profileDrawerItem);
         }
     }
 
-    private void initGoogleForm() {
-        GoogleFormRestClient.initCookieStore(this);
+
+    @Override
+    public void onBackPressed() {
+        if(result!=null && result.isDrawerOpen()) {
+            result.closeDrawer();
+        } else super.onBackPressed();
     }
 
-    public void getGoogleForm() {
-        GoogleFormRestClient.get("viewform", null, new AsyncHttpResponseHandler() {
-            @Override
-            public void onSuccess(int statusCode, Header[] headers, byte[] responseBody) {
+    private void initAccountHeader() {
 
-                String body = new String(responseBody);
-                Document doc = Jsoup.parse(body);
 
-                postData(addParams(doc));
-            }
+        String fullName = "";
+        String group = "";
+        ProfileDrawerItem profileDrawerItem = null;
 
-            @Override
-            public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
-                Log.d(TAG, "onFailure");
-            }
-        });
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        if(user!=null) {
+            profileDrawerItem = new ProfileDrawerItem()
+                    .withName(user.getDisplayName())
+                    .withEmail(user.getPhoneNumber())
+                    .withIcon(R.mipmap.ic_launcher);
+
+            headerResult.updateProfile(profileDrawerItem);
+        }
+
     }
 
-    private RequestParams addParams(Document doc) {
-        String fvv = doc.select("input[name=fvv]").attr("value");
-        String draftResponse = doc.select("input[name=draftResponse]").attr("value");
-        String pageHistory = doc.select("input[name=pageHistory]").attr("value");
-        String fbzx = doc.select("input[name=fbzx]").attr("value");
+    public void firebaseAuth() {
+        // Choose authentication providers
+        List<AuthUI.IdpConfig> providers = Arrays.asList(
+                //new AuthUI.IdpConfig.Builder(AuthUI.EMAIL_PROVIDER).build(),
+                new AuthUI.IdpConfig.Builder(AuthUI.PHONE_VERIFICATION_PROVIDER).build()
+                //new AuthUI.IdpConfig.Builder(AuthUI.GOOGLE_PROVIDER).build(),
+                //new AuthUI.IdpConfig.Builder(AuthUI.FACEBOOK_PROVIDER).build(),
+                //new AuthUI.IdpConfig.Builder(AuthUI.TWITTER_PROVIDER).build()
+        );
 
-        RequestParams params = new RequestParams();
-        //params.add("entry.788165351.other_option_response", "");
-        params.add("entry.788165351", "Вариант 1");
-        GoogleFormRestClient.client.addHeader("referer", "https://docs.google.com/forms/d/e/" + GoogleFormRestClient.FORM_ID + "/viewform?fbzx=" + fbzx);
-        params.add("entry.81096689", "Потому");
-        //params.add("entry.2022510004_sentinel:", "");
-        params.add("entry.2022510004", "");
-        params.add("entry.789087003", "Вариант 1");
-        params.add("entry.751611962", "Вариант 1");
-        params.add("entry.1708765172", "Вариант 1");
-        params.add("fvv", fvv);
-        params.add("draftResponse", draftResponse);
-        params.add("pageHistory", pageHistory);
-        params.add("fbzx", fbzx);
-
-        return params;
+// Create and launch sign-in intent
+        startActivityForResult(
+                AuthUI.getInstance()
+                        .createSignInIntentBuilder()
+                        .setAvailableProviders(providers)
+                        .setTheme(R.style.AppTheme)
+                        .build(),
+                RC_SIGN_IN);
     }
 
-    public void postData(RequestParams params) {
-        GoogleFormRestClient.post("formResponse", params, new AsyncHttpResponseHandler() {
-            @Override
-            public void onSuccess(int statusCode, Header[] headers, byte[] responseBody) {
-                String str = new String(responseBody);
-                Log.d(TAG, "onSuccess");
-            }
+    public void setupNavigationDrawer() {
+        //if you want to update the items at a later time it is recommended to keep it in a variable
+        PrimaryDrawerItem news = new PrimaryDrawerItem().withIdentifier(1).withName(R.string.drawer_item_news).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
+        PrimaryDrawerItem vacancy = new PrimaryDrawerItem().withIdentifier(2).withName(R.string.drawer_item_vacancy).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
+        SecondaryDrawerItem sign_exit;
+        if(FirebaseAuth.getInstance().getCurrentUser()!=null) sign_exit = new SecondaryDrawerItem().withIdentifier(6).withName(R.string.drawer_item_exit).withIconColor(color);
+        else sign_exit = new SecondaryDrawerItem().withIdentifier(6).withName(R.string.drawer_item_sign_in).withIconColor(color);
 
-            @Override
-            public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
-                Log.d(TAG, "onFailure");
-            }
-        });
+        PrimaryDrawerItem about = new PrimaryDrawerItem().withIdentifier(5).withName(R.string.drawer_item_about).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
+
+        //create the drawer and remember the `Drawer` result object
+        result = new DrawerBuilder()
+                .withActivity(this)
+                .withToolbar(toolbar)
+                .withAccountHeader(headerResult)
+                .withActionBarDrawerToggle(true)
+                .addDrawerItems(
+                        news,
+                        vacancy,
+                        new DividerDrawerItem(),
+                        about,
+                        sign_exit
+                )
+                .withOnDrawerItemClickListener(new Drawer.OnDrawerItemClickListener() {
+                    @Override
+                    public boolean onItemClick(View view, int position, IDrawerItem drawerItem) {
+                        switch (position) {
+                            case 1:
+                                drawerIntent = new Intent(MainActivity.this, FeedActivity.class);
+                                break;
+                            case 2: drawerIntent = new Intent(MainActivity.this, FeedActivity.class);
+                                break;
+                            case 4:
+                                new About().onCreateDialog(getApplicationContext());
+                                break;
+                            case 9:
+                                if(FirebaseAuth.getInstance().getCurrentUser()!=null) {
+                                    FirebaseAuth.getInstance().signOut();
+                                   firebaseAuth();
+                                    finish();
+                                }
+                                else {
+                                    firebaseAuth();
+                                    dontFinish = true;
+                                }
+                                break;
+                        }
+                        result.closeDrawer();
+                        return true;
+                    }
+                })
+                .withOnDrawerListener(new Drawer.OnDrawerListener() {
+                    @Override
+                    public void onDrawerOpened(View drawerView) {
+
+                    }
+
+                    @Override
+                    public void onDrawerClosed(View drawerView) {
+                        if(drawerIntent!=null) {
+                            startActivity(drawerIntent);
+                            overridePendingTransition(0, 0);
+                            drawerIntent = null;
+                            if(!dontFinish) finish();
+                            dontFinish = false;
+                        }
+                    }
+
+                    @Override
+                    public void onDrawerSlide(View drawerView, float slideOffset) {
+
+                    }
+                })
+                .build();
+    }
+
+    public void addNews() {
+        FirebaseFirestore db = FirebaseFirestore.getInstance();
+        db.collection(FirestoreConst.NEWS).add(new News("Test1", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
+        db.collection(FirestoreConst.NEWS).add(new News("Test2", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
+        db.collection(FirestoreConst.NEWS).add(new News("Test3", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
+        db.collection(FirestoreConst.NEWS).add(new News("Test4", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
     }
 }
+
+

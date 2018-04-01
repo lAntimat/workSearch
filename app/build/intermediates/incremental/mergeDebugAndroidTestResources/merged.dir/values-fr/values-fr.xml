@@ -147,6 +147,8 @@
     <string name="fui_welcome_back_idp_prompt" translation_description="Message to users that need to signin using existing IDP accounts">Vous avez déjà utilisé l\'adresse e-mail %1$s. Connectez-vous avec %2$s pour continuer.</string>
     <string name="fui_welcome_back_password_prompt_body" translation_description="Message to users that need to signin using existing email accounts">Vous avez déjà utilisé l\'adresse e-mail %1$s pour vous connecter. Saisissez le mot de passe du compte.</string>
     <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Divers"</string>
+    <string name="material_drawer_close">Fermer</string>
+    <string name="material_drawer_open">Ouvrir</string>
     <string msgid="3698378085901466129" name="mr_button_content_description">"Icône Cast"</string>
     <string msgid="5088427771788648085" name="mr_cast_button_connected">"Icône Cast. Connecté"</string>
     <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Icône Cast. Connexion…"</string>

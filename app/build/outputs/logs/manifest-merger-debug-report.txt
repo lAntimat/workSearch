@@ -1,29 +1,36 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:2:1-13:12
 MERGED from [com.jaredrummler:material-spinner:1.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.4.aar\441bda05e81775536c1e564ce00330d2\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\bf4b8cf6e3666551aeb15a73abc5ea96\AndroidManifest.xml:2:1-8:12
 MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:2:1-76:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\28ada999e28fd08504dc4c1efd6ea950\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:2:1-6:12
+MERGED from [org.sufficientlysecure:html-textview:3.5] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\html-textview-3.5.aar\ee343e9eff1df56f25cffffd0dc76863\AndroidManifest.xml:2:1-13:12
+MERGED from [com.ss.bannerslider:bannerslider:1.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\bannerslider-1.8.0.aar\15e21039e9a50584d614f5d8cfa088f8\AndroidManifest.xml:2:1-16:12
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\blurry-2.1.1.aar\c6ab6231f360dff5ccda2876817181e9\AndroidManifest.xml:2:1-12:12
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\c3cdb996a614525ac52e272367da8dcd\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\436da9283fa3f149d607f991fb59f4fd\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f26a84f27d1f672a2a0daab128f6e375\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:17:1-32:12
+MERGED from [com.mikepenz:materialdrawer:6.0.6] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\materialdrawer-6.0.6.aar\58b9f41b5ea8853486aecf5ef110b3e8\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ed1d50f6e61b31a353d0d06cb8bedcf6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc0473a162392b6f6f2c930fc37285a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\c1913965dbb6f10fdd2346cc9d1f0bfd\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\f8cafcdb94878df9935a9f29b0cdbc86\AndroidManifest.xml:2:1-8:12
@@ -74,11 +81,15 @@ MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\lAntimat
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\2404d6d69e136a6f6a0bf5512d0f8a7c\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\8185ad7fe17977a78ffba4f881e5285a\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5996505e40a9e40d3e524b9751d09793\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8476cd931a2613f3fdd5e1b872d68b06\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ca24d0b1a9763b55d50cbf025d3f95c9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5301fde68e3e3d83780e7dd09db68d9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\materialize-1.1.2.aar\07f1eea0464424df9e4b0472e5ff6438\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.2.aar\5ce00623855b52d7a2e5f636b866f285\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\fastadapter-3.2.4.aar\e354bc1a80108b8859733bcc071ca867\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-expandable-3.2.4.aar\afe7a827da41b7edf09b7c4fe5be7ae9\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\21a97fa2d30f4775c86269e6dc58c6c5\AndroidManifest.xml:2:1-6:12
@@ -130,20 +141,20 @@ MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\User
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\5321ecdf8b65eda5eb901578ce2b8c95\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5a2ff26a28e062859482f26bfc46fb8d\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:11-69
@@ -178,13 +189,17 @@ MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAnt
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:7:5-24:19
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:7:5-26:19
 MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:11:5-47
 MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:11:5-47
 MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:15:5-74:19
 MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:15:5-74:19
 MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:5:5-20
+MERGED from [org.sufficientlysecure:html-textview:3.5] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\html-textview-3.5.aar\ee343e9eff1df56f25cffffd0dc76863\AndroidManifest.xml:11:5-20
+MERGED from [org.sufficientlysecure:html-textview:3.5] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\html-textview-3.5.aar\ee343e9eff1df56f25cffffd0dc76863\AndroidManifest.xml:11:5-20
+MERGED from [com.ss.bannerslider:bannerslider:1.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\bannerslider-1.8.0.aar\15e21039e9a50584d614f5d8cfa088f8\AndroidManifest.xml:11:5-14:19
+MERGED from [com.ss.bannerslider:bannerslider:1.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\bannerslider-1.8.0.aar\15e21039e9a50584d614f5d8cfa088f8\AndroidManifest.xml:11:5-14:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:25:5-29:19
@@ -193,20 +208,22 @@ MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\User
 MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\436da9283fa3f149d607f991fb59f4fd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\436da9283fa3f149d607f991fb59f4fd\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:22:5-30:19
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:22:5-30:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:24:5-25:19
@@ -287,8 +304,8 @@ MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\ca
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\8185ad7fe17977a78ffba4f881e5285a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\8185ad7fe17977a78ffba4f881e5285a\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:5:5-20
@@ -390,20 +407,20 @@ MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Us
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:14:9-40
 	android:name
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:14:9-68
-activity#ru.lantimat.worksearch.MainActivity
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:8:9-68
+activity#ru.lantimat.worksearch.FeedActivity
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:19-47
@@ -417,10 +434,22 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:19:27-74
-activity#ru.lantimat.worksearch.GoogleFormActivity
-ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:9-23:20
+activity#ru.lantimat.worksearch.googleForm.GoogleFormActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:9-76
 	android:name
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:19-53
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:19-64
+activity#ru.lantimat.worksearch.MainActivity2
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:23:19-48
+activity#ru.lantimat.worksearch.MainActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:24:9-50
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:24:19-47
+activity#ru.lantimat.worksearch.feeds.full.FullNewsActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:25:9-65
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:25:19-62
 uses-sdk
 INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
@@ -437,6 +466,14 @@ MERGED from [com.android.support:multidex:1.0.2] C:\Users\lAntimat\.gradle\cache
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\28ada999e28fd08504dc4c1efd6ea950\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-11.8.0.aar\d65bb94f7eb33f71ab012b7d33e2d8dd\AndroidManifest.xml:4:5-43
+MERGED from [org.sufficientlysecure:html-textview:3.5] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\html-textview-3.5.aar\ee343e9eff1df56f25cffffd0dc76863\AndroidManifest.xml:7:5-9:41
+MERGED from [org.sufficientlysecure:html-textview:3.5] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\html-textview-3.5.aar\ee343e9eff1df56f25cffffd0dc76863\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ss.bannerslider:bannerslider:1.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\bannerslider-1.8.0.aar\15e21039e9a50584d614f5d8cfa088f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ss.bannerslider:bannerslider:1.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\bannerslider-1.8.0.aar\15e21039e9a50584d614f5d8cfa088f8\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\blurry-2.1.1.aar\c6ab6231f360dff5ccda2876817181e9\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\blurry-2.1.1.aar\c6ab6231f360dff5ccda2876817181e9\AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\c3cdb996a614525ac52e272367da8dcd\AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\c3cdb996a614525ac52e272367da8dcd\AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d4a104a1974f1068c54981e611c9e439\AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:21:5-23:62
@@ -445,26 +482,32 @@ MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\User
 MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.8.0.aar\cf64ea80927413008d83745ac6da39fe\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.8.0.aar\f23f3b88229d77ca02579f966a3ab6ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\71b582b77f506528d1c47ba3e81fcbd0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\436da9283fa3f149d607f991fb59f4fd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\436da9283fa3f149d607f991fb59f4fd\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f26a84f27d1f672a2a0daab128f6e375\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f26a84f27d1f672a2a0daab128f6e375\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\123a74dc69bf8027ba95d9389fa7a984\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:materialdrawer:6.0.6] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\materialdrawer-6.0.6.aar\58b9f41b5ea8853486aecf5ef110b3e8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:6.0.6] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\materialdrawer-6.0.6.aar\58b9f41b5ea8853486aecf5ef110b3e8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ed1d50f6e61b31a353d0d06cb8bedcf6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ed1d50f6e61b31a353d0d06cb8bedcf6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc0473a162392b6f6f2c930fc37285a0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\dc0473a162392b6f6f2c930fc37285a0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\c1913965dbb6f10fdd2346cc9d1f0bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\c1913965dbb6f10fdd2346cc9d1f0bfd\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-config-11.8.0.aar\e5fccc555da39c2335fb88a68f579772\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.8.0.aar\63c14c236ccbde002f7c342b1331b1a7\AndroidManifest.xml:20:5-44
@@ -565,8 +608,8 @@ MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\ca
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ea9529fcc6c49ccb5b532946192c0c75\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\2f0ead3988723d3f6ce45116f165c52b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\8185ad7fe17977a78ffba4f881e5285a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\8185ad7fe17977a78ffba4f881e5285a\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5996505e40a9e40d3e524b9751d09793\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5996505e40a9e40d3e524b9751d09793\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\8476cd931a2613f3fdd5e1b872d68b06\AndroidManifest.xml:20:5-44
@@ -575,6 +618,14 @@ MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lAntimat\.grad
 MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ca24d0b1a9763b55d50cbf025d3f95c9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5301fde68e3e3d83780e7dd09db68d9e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5301fde68e3e3d83780e7dd09db68d9e\AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\materialize-1.1.2.aar\07f1eea0464424df9e4b0472e5ff6438\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\materialize-1.1.2.aar\07f1eea0464424df9e4b0472e5ff6438\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.2.aar\5ce00623855b52d7a2e5f636b866f285\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\iconics-core-3.0.2.aar\5ce00623855b52d7a2e5f636b866f285\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\fastadapter-3.2.4.aar\e354bc1a80108b8859733bcc071ca867\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\fastadapter-3.2.4.aar\e354bc1a80108b8859733bcc071ca867\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-expandable-3.2.4.aar\afe7a827da41b7edf09b7c4fe5be7ae9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-expandable-3.2.4.aar\afe7a827da41b7edf09b7c4fe5be7ae9\AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\02dd2896b9e7c1181b571bbcb54774b9\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\a1699140082eea9e6aa65c150026fcaa\AndroidManifest.xml:4:5-43
@@ -829,12 +880,12 @@ ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\cac
 		ADDED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:71:23-78
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3dad0d2f752d7fb046ab09ab9a6f90b5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:customtabs:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b278438fad5549d71e52961ea536be4d\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f7481129d773a2e86ea4ff0e01e37fab\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b550870daff2f37b1f51fce98d2b8f05\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:transition:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9396da3cc9f20ce8c64e142420956910\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8bf6d0b30f124bf790e9bbffe864bb07\AndroidManifest.xml:26:9-28:38
@@ -871,6 +922,14 @@ ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\
 		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:29:13-72
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\61d11eb17ffd3f091286fcd65b6a5f90\AndroidManifest.xml:24:13-85
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\9bc9d435c347b83348aca654a1f43e79\AndroidManifest.xml:9:13-64
 activity#com.google.android.gms.appinvite.PreviewActivity
 ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.8.0.aar\c076c908f75705422bbb88ebb3136126\AndroidManifest.xml:25:9-34:20
 	android:exported

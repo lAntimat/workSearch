@@ -8,42 +8,42 @@ package com.jaredrummler.materialspinner;
 
 public final class R {
     public static final class attr {
-        public static final int ms_arrow_tint = 0x7f04016a;
-        public static final int ms_background_color = 0x7f04016b;
-        public static final int ms_background_selector = 0x7f04016c;
-        public static final int ms_dropdown_height = 0x7f04016d;
-        public static final int ms_dropdown_max_height = 0x7f04016e;
-        public static final int ms_hide_arrow = 0x7f04016f;
-        public static final int ms_hint = 0x7f040170;
-        public static final int ms_hint_color = 0x7f040171;
-        public static final int ms_text_color = 0x7f040172;
+        public static final int ms_arrow_tint = 0x7f040195;
+        public static final int ms_background_color = 0x7f040196;
+        public static final int ms_background_selector = 0x7f040197;
+        public static final int ms_dropdown_height = 0x7f040198;
+        public static final int ms_dropdown_max_height = 0x7f040199;
+        public static final int ms_hide_arrow = 0x7f04019a;
+        public static final int ms_hint = 0x7f04019b;
+        public static final int ms_hint_color = 0x7f04019c;
+        public static final int ms_text_color = 0x7f04019d;
     }
     public static final class dimen {
-        public static final int ms__item_height = 0x7f0700bf;
-        public static final int ms__padding_left = 0x7f0700c0;
-        public static final int ms__padding_top = 0x7f0700c1;
-        public static final int ms__popup_padding_left = 0x7f0700c2;
-        public static final int ms__popup_padding_top = 0x7f0700c3;
+        public static final int ms__item_height = 0x7f070110;
+        public static final int ms__padding_left = 0x7f070111;
+        public static final int ms__padding_top = 0x7f070112;
+        public static final int ms__popup_padding_left = 0x7f070113;
+        public static final int ms__popup_padding_top = 0x7f070114;
     }
     public static final class drawable {
-        public static final int ms__arrow = 0x7f080167;
-        public static final int ms__drawable = 0x7f080168;
-        public static final int ms__drop_down_shadow = 0x7f080169;
-        public static final int ms__menu_down = 0x7f08016a;
-        public static final int ms__selector = 0x7f08016b;
-        public static final int ms__shadow_background = 0x7f08016c;
+        public static final int ms__arrow = 0x7f080175;
+        public static final int ms__drawable = 0x7f080176;
+        public static final int ms__drop_down_shadow = 0x7f080177;
+        public static final int ms__menu_down = 0x7f080178;
+        public static final int ms__selector = 0x7f080179;
+        public static final int ms__shadow_background = 0x7f08017a;
     }
     public static final class id {
-        public static final int fill_parent = 0x7f09009c;
-        public static final int match_parent = 0x7f0900d2;
-        public static final int tv_tinted_spinner = 0x7f090187;
-        public static final int wrap_content = 0x7f090197;
+        public static final int fill_parent = 0x7f0900a6;
+        public static final int match_parent = 0x7f0900e1;
+        public static final int tv_tinted_spinner = 0x7f0901d4;
+        public static final int wrap_content = 0x7f0901e6;
     }
     public static final class layout {
-        public static final int ms__list_item = 0x7f0c004f;
+        public static final int ms__list_item = 0x7f0c006b;
     }
     public static final class styleable {
-        public static final int[] MaterialSpinner = { 0x7f04016a, 0x7f04016b, 0x7f04016c, 0x7f04016d, 0x7f04016e, 0x7f04016f, 0x7f040170, 0x7f040171, 0x7f040172 };
+        public static final int[] MaterialSpinner = { 0x7f040195, 0x7f040196, 0x7f040197, 0x7f040198, 0x7f040199, 0x7f04019a, 0x7f04019b, 0x7f04019c, 0x7f04019d };
         public static final int MaterialSpinner_ms_arrow_tint = 0;
         public static final int MaterialSpinner_ms_background_color = 1;
         public static final int MaterialSpinner_ms_background_selector = 2;

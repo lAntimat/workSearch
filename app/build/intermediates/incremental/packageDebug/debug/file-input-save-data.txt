@@ -1,31 +1,35 @@
 #Internal package file, do not edit.
-#Sat Feb 24 18:19:24 MSK 2018
+#Sun Apr 01 14:00:47 MSK 2018
+7.path=classes.dex
 2.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\70
 5.set=DEX
 0.path=classes.dex
 2.baseType=DIRECTORY
 3.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\71
+7.baseType=DIRECTORY
 2.set=DEX
 1.path=classes.dex
 4.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\assets\\debug
-count=7
+7.set=DEX
+count=8
 5.baseType=DIRECTORY
 2.path=classes.dex
 5.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\72
 4.set=ASSET
 3.path=classes.dex
-6.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\68
+6.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\assets\\debug
 3.baseType=DIRECTORY
 1.set=DEX
 4.path=crashlytics-build.properties
-6.set=DEX
+7.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\68
+6.set=ASSET
 1.baseType=DIRECTORY
 6.baseType=DIRECTORY
 5.path=classes.dex
 0.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\69
 0.baseType=DIRECTORY
 3.set=DEX
-6.path=classes.dex
+6.path=fonts/materialdrawerfont-font-v5.0.0.ttf
 1.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\73
 4.baseType=DIRECTORY
 0.set=DEX
