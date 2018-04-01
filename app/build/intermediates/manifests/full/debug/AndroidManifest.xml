@@ -33,14 +33,14 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="ru.lantimat.worksearch.MainActivity" >
+        <activity android:name="ru.lantimat.worksearch.MainActivity2" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ru.lantimat.worksearch.GoogleFormActivity" >
+        <activity android:name="ru.lantimat.worksearch.googleForm.GoogleFormActivity" >
         </activity>
 
         <meta-data

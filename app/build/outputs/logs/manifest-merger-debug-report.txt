@@ -403,7 +403,7 @@ MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:13:9-40
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:14:9-68
-activity#ru.lantimat.worksearch.MainActivity
+activity#ru.lantimat.worksearch.MainActivity2
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:19-47
@@ -417,7 +417,7 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:19:27-74
-activity#ru.lantimat.worksearch.GoogleFormActivity
+activity#ru.lantimat.worksearch.googleForm.GoogleFormActivity
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:9-23:20
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:22:19-53
