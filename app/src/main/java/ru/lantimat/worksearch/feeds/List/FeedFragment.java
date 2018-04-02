@@ -103,7 +103,7 @@ public class FeedFragment extends Fragment implements NewsMVP.View {
 
         View v = inflater.inflate(R.layout.fragment_feeds, null);
 
-        textView = v.findViewById(R.id.textView);
+        textView = v.findViewById(R.id.tvName);
         imageView = v.findViewById(R.id.imageView);
         progressBar = v.findViewById(R.id.progressBar);
         progressBar.setVisibility(View.INVISIBLE);

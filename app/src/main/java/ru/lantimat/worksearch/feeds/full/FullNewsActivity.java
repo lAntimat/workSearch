@@ -1,21 +1,11 @@
 package ru.lantimat.worksearch.feeds.full;
 
-import android.content.Intent;
-import android.content.res.ColorStateList;
-import android.graphics.Bitmap;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.os.Handler;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.design.widget.FloatingActionButton;
-import android.support.v4.content.ContextCompat;
-import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
@@ -25,23 +15,8 @@ import android.widget.TextView;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.squareup.picasso.Picasso;
-import com.squareup.picasso.Target;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-import org.sufficientlysecure.htmltextview.HtmlTextView;
-
-import java.util.ArrayList;
-import java.util.Timer;
-
-import cz.msebera.android.httpclient.Header;
-import jp.wasabeef.blurry.Blurry;
-import me.relex.circleindicator.CircleIndicator;
-import ru.lantimat.worksearch.FeedActivity;
 import ru.lantimat.worksearch.FirestoreConst;
 import ru.lantimat.worksearch.R;
 import ru.lantimat.worksearch.feeds.List.News;
@@ -79,7 +54,7 @@ public class FullNewsActivity extends AppCompatActivity {
         //fab = findViewById(R.id.fab);
         //fab.hide();
 
-        textView = findViewById(R.id.textView);
+        textView = findViewById(R.id.tvName);
         //htmlTextView = findViewById(R.id.html_text);
 
         progressBar = findViewById(R.id.progressBar);

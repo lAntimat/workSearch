@@ -5,7 +5,8 @@
     <string name="drawer_item_exit">Выйти</string>
     <string name="drawer_item_sign_in">Войти</string>
     <string name="drawer_item_user_status">Статус</string>
-    <string name="drawer_item_news">Статус</string>
+    <string name="drawer_item_news">Новости</string>
     <string name="drawer_item_vacancy">Вакансии</string>
+    <string name="drawer_item_google_form">Анкета соискателя</string>
     <string name="drawer_item_about">О приложении</string>
 </resources>

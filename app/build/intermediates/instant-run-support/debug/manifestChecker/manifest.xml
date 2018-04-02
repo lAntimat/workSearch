@@ -33,7 +33,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="ru.lantimat.worksearch.FeedActivity" >
+        <activity android:name="ru.lantimat.worksearch.feeds.List.FeedActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -43,6 +43,8 @@
         <activity android:name="ru.lantimat.worksearch.googleForm.GoogleFormActivity" />
         <activity android:name="ru.lantimat.worksearch.MainActivity2" />
         <activity android:name="ru.lantimat.worksearch.MainActivity" />
+        <activity android:name="ru.lantimat.worksearch.vacancy.VacancyActivity" />
+        <activity android:name="ru.lantimat.worksearch.vacancy.FullVacancyActivity" />
         <activity android:name="ru.lantimat.worksearch.feeds.full.FullNewsActivity" />
 
         <meta-data

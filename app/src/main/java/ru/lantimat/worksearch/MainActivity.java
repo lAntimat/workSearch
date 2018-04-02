@@ -15,6 +15,7 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.Spinner;
+import android.widget.Toast;
 
 import com.firebase.ui.auth.AuthUI;
 import com.google.firebase.auth.FirebaseAuth;
@@ -37,7 +38,11 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
+import ru.lantimat.worksearch.feeds.List.FeedActivity;
 import ru.lantimat.worksearch.feeds.List.News;
+import ru.lantimat.worksearch.googleForm.GoogleFormActivity;
+import ru.lantimat.worksearch.vacancy.Vacancy;
+import ru.lantimat.worksearch.vacancy.VacancyActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -113,7 +118,8 @@ public class MainActivity extends AppCompatActivity {
             setupNavigationDrawer();
         }
 
-        addNews();
+        //addNews();
+        //addVacancy();
     }//
 
     @Override
@@ -179,7 +185,16 @@ public class MainActivity extends AppCompatActivity {
                     .withEmail(user.getPhoneNumber())
                     .withIcon(R.mipmap.ic_launcher);
 
-            headerResult.updateProfile(profileDrawerItem);
+            headerResult = new AccountHeaderBuilder()
+                    .withActivity(this)
+                    .withHeaderBackground(R.drawable.ic_launcher_background)
+                    .addProfiles(profileDrawerItem)
+            .build();
+        } else {
+            headerResult = new AccountHeaderBuilder()
+                    .withActivity(this)
+                    .withHeaderBackground(R.drawable.ic_launcher_background)
+                    .build();
         }
 
     }
@@ -208,6 +223,7 @@ public class MainActivity extends AppCompatActivity {
         //if you want to update the items at a later time it is recommended to keep it in a variable
         PrimaryDrawerItem news = new PrimaryDrawerItem().withIdentifier(1).withName(R.string.drawer_item_news).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
         PrimaryDrawerItem vacancy = new PrimaryDrawerItem().withIdentifier(2).withName(R.string.drawer_item_vacancy).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
+        PrimaryDrawerItem googleForm = new PrimaryDrawerItem().withIdentifier(3).withName(R.string.drawer_item_google_form).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
         SecondaryDrawerItem sign_exit;
         if(FirebaseAuth.getInstance().getCurrentUser()!=null) sign_exit = new SecondaryDrawerItem().withIdentifier(6).withName(R.string.drawer_item_exit).withIconColor(color);
         else sign_exit = new SecondaryDrawerItem().withIdentifier(6).withName(R.string.drawer_item_sign_in).withIconColor(color);
@@ -223,6 +239,7 @@ public class MainActivity extends AppCompatActivity {
                 .addDrawerItems(
                         news,
                         vacancy,
+                        googleForm,
                         new DividerDrawerItem(),
                         about,
                         sign_exit
@@ -234,12 +251,16 @@ public class MainActivity extends AppCompatActivity {
                             case 1:
                                 drawerIntent = new Intent(MainActivity.this, FeedActivity.class);
                                 break;
-                            case 2: drawerIntent = new Intent(MainActivity.this, FeedActivity.class);
+                            case 2:
+                                drawerIntent = new Intent(MainActivity.this, VacancyActivity.class);
                                 break;
-                            case 4:
-                                new About().onCreateDialog(getApplicationContext());
+                            case 3:
+                                googleFormOpen();
                                 break;
-                            case 9:
+                            case 5:
+                                new About().onCreateDialog(MainActivity.this).show();
+                                break;
+                            case 6:
                                 if(FirebaseAuth.getInstance().getCurrentUser()!=null) {
                                     FirebaseAuth.getInstance().signOut();
                                    firebaseAuth();
@@ -280,12 +301,38 @@ public class MainActivity extends AppCompatActivity {
                 .build();
     }
 
+    public void googleFormOpen() {
+        FirebaseUser firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
+        if(firebaseUser!=null) {
+            startActivity(new Intent(this, GoogleFormActivity.class));
+        } else {
+            Toast.makeText(this, "Для продолжения необходимо авторизоваться!", Toast.LENGTH_LONG).show();
+            firebaseAuth();
+        }
+    }
+
     public void addNews() {
         FirebaseFirestore db = FirebaseFirestore.getInstance();
         db.collection(FirestoreConst.NEWS).add(new News("Test1", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
         db.collection(FirestoreConst.NEWS).add(new News("Test2", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
         db.collection(FirestoreConst.NEWS).add(new News("Test3", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
         db.collection(FirestoreConst.NEWS).add(new News("Test4", "TestSubtite", new Date(), "https://www.w3schools.com/howto/img_fjords.jpg"));
+    }
+
+    public void addVacancy() {
+        FirebaseFirestore db = FirebaseFirestore.getInstance();
+        db.collection(FirestoreConst.VACANCY).add(new Vacancy("Test1", "10000", new Date(), "Диля inc", "Яр Чаллы", "Без опыта", "Полный день", "Мы предлагаем вам вообще огонь все будет хорошо, но денег не длите, хер вам", "+79600747198" ));
+        db.collection(FirestoreConst.VACANCY).add(new Vacancy("Test2", "10000", new Date(), "Диля inc", "Яр Чаллы", "Без опыта", "Полный день", "Мы предлагаем вам вообще огонь все будет хорошо, но денег не длите, хер вам", "+79600747198" ));
+        db.collection(FirestoreConst.VACANCY).add(new Vacancy("Test3", "10000", new Date(), "Диля inc", "Яр Чаллы", "Без опыта", "Полный день", "Мы предлагаем вам вообще огонь все будет хорошо, но денег не длите, хер вам", "+79600747198" ));
+        db.collection(FirestoreConst.VACANCY).add(new Vacancy("Test4", "10000", new Date(), "Диля inc", "Яр Чаллы", "Без опыта", "Полный день", "Мы предлагаем вам вообще огонь все будет хорошо, но денег не длите, хер вам", "+79600747198" ));
+        db.collection(FirestoreConst.VACANCY).add(new Vacancy("Test5", "10000", new Date(), "Диля inc", "Яр Чаллы", "Без опыта", "Полный день", "Мы предлагаем вам вообще огонь все будет хорошо, но денег не длите, хер вам", "+79600747198" ));
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        initAccountHeader();
+        setupNavigationDrawer();
+        super.onActivityResult(requestCode, resultCode, data);
     }
 }
 

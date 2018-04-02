@@ -8,6 +8,10 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.github.paolorotolo.appintro.AppIntro;
+import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.firestore.FirebaseFirestore;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
 
@@ -18,6 +22,7 @@ import java.util.Calendar;
 import java.util.HashMap;
 
 import cz.msebera.android.httpclient.Header;
+import ru.lantimat.worksearch.FirestoreConst;
 
 public class GoogleFormActivity extends AppIntro {
 
@@ -79,6 +84,10 @@ public class GoogleFormActivity extends AppIntro {
 
         initGoogleForm();
         getGoogleForm();
+
+        if(FirebaseAuth.getInstance().getCurrentUser() == null) {
+            finish();
+        }
     }
 
     @Override
@@ -260,8 +269,7 @@ public class GoogleFormActivity extends AppIntro {
                 String response = Jsoup.parse(str).select("div.freebirdFormviewerViewResponseConfirmationMessage").text();
                 if(response!=null) {
                     if(response.equals("Ответ записан.")) {
-                        showToast("Ответ записан.");
-                        finish();
+                        addToFirebase();
                     }
                 }
                 Log.d(TAG, "postData onSuccess");
@@ -272,6 +280,21 @@ public class GoogleFormActivity extends AppIntro {
                 Log.d(TAG, "onFailure");
             }
         });
+    }
+
+    private void addToFirebase() {
+        FirebaseFirestore db = FirebaseFirestore.getInstance();
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        if(user!=null) {
+            db.collection(FirestoreConst.USERS).document(user.getUid()).set(new User(true))
+            .addOnSuccessListener(new OnSuccessListener<Void>() {
+                @Override
+                public void onSuccess(Void aVoid) {
+                    showToast("Ответ записан.");
+                    finish();
+                }
+            });
+        }
     }
 
     public void showToast(String str) {

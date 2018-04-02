@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:2:1-13:12
 MERGED from [com.jaredrummler:material-spinner:1.2.4] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\material-spinner-1.2.4.aar\441bda05e81775536c1e564ce00330d2\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-firestore-11.8.0.aar\bf4b8cf6e3666551aeb15a73abc5ea96\AndroidManifest.xml:2:1-8:12
@@ -141,20 +141,20 @@ MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] C:\User
 MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\5321ecdf8b65eda5eb901578ce2b8c95\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5a2ff26a28e062859482f26bfc46fb8d\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\46754e9245650b3d016dbcb5b778bc01\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:2:11-69
@@ -189,7 +189,7 @@ MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\lAnt
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:7:5-26:19
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:7:5-28:19
 MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:11:5-47
 MERGED from [com.github.apl-devs:appintro:v4.2.3] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\appintro-v4.2.3.aar\e471318f7641335512a4f8a3c5e9cffe\AndroidManifest.xml:11:5-47
 MERGED from [com.firebaseui:firebase-ui-auth:3.1.0] C:\Users\lAntimat\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.1.0.aar\08be5428a6d170ff234cd343904f78c1\AndroidManifest.xml:15:5-74:19
@@ -420,10 +420,10 @@ MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\lAntimat
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:14:9-40
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:8:9-68
-activity#ru.lantimat.worksearch.FeedActivity
+activity#ru.lantimat.worksearch.feeds.List.FeedActivity
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:15:19-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
@@ -446,10 +446,18 @@ activity#ru.lantimat.worksearch.MainActivity
 ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
 		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:24:19-47
-activity#ru.lantimat.worksearch.feeds.full.FullNewsActivity
-ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:25:9-65
+activity#ru.lantimat.worksearch.vacancy.VacancyActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:25:9-61
 	android:name
-		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:25:19-62
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:25:19-58
+activity#ru.lantimat.worksearch.vacancy.FullVacancyActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:26:9-65
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:26:19-62
+activity#ru.lantimat.worksearch.feeds.full.FullNewsActivity
+ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:27:9-65
+	android:name
+		ADDED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml:27:19-62
 uses-sdk
 INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\lAntimat\StudioProjects\work_search\app\src\main\AndroidManifest.xml
