@@ -22,7 +22,7 @@ public class About {
                 .setTitle(R.string.drawer_item_about)
                 .setNegativeButton("Группа Вк", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
-                        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://vk.com/club153198454"));
+                        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://vk.com/club25570214"));
                         context.startActivity(browserIntent);
                         //TODO: ссылка на группу вк
                     }

@@ -533,26 +533,26 @@ public final class R {
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f080057;
         public static final int abc_textfield_search_material = 0x7f080058;
         public static final int abc_vector_test = 0x7f080059;
-        public static final int indicator_circle_selected = 0x7f080153;
-        public static final int indicator_circle_unselected = 0x7f080154;
-        public static final int indicator_dash_selected = 0x7f080155;
-        public static final int indicator_dash_unselected = 0x7f080156;
-        public static final int indicator_round_square_selected = 0x7f080159;
-        public static final int indicator_round_square_unselected = 0x7f08015a;
-        public static final int indicator_square_selected = 0x7f08015b;
-        public static final int indicator_square_unselected = 0x7f08015c;
-        public static final int notification_action_background = 0x7f08017c;
-        public static final int notification_bg = 0x7f08017d;
-        public static final int notification_bg_low = 0x7f08017e;
-        public static final int notification_bg_low_normal = 0x7f08017f;
-        public static final int notification_bg_low_pressed = 0x7f080180;
-        public static final int notification_bg_normal = 0x7f080181;
-        public static final int notification_bg_normal_pressed = 0x7f080182;
-        public static final int notification_icon_background = 0x7f080183;
-        public static final int notification_template_icon_bg = 0x7f080184;
-        public static final int notification_template_icon_low_bg = 0x7f080185;
-        public static final int notification_tile_bg = 0x7f080186;
-        public static final int notify_panel_notification_icon_bg = 0x7f080187;
+        public static final int indicator_circle_selected = 0x7f080156;
+        public static final int indicator_circle_unselected = 0x7f080157;
+        public static final int indicator_dash_selected = 0x7f080158;
+        public static final int indicator_dash_unselected = 0x7f080159;
+        public static final int indicator_round_square_selected = 0x7f08015c;
+        public static final int indicator_round_square_unselected = 0x7f08015d;
+        public static final int indicator_square_selected = 0x7f08015e;
+        public static final int indicator_square_unselected = 0x7f08015f;
+        public static final int notification_action_background = 0x7f080181;
+        public static final int notification_bg = 0x7f080182;
+        public static final int notification_bg_low = 0x7f080183;
+        public static final int notification_bg_low_normal = 0x7f080184;
+        public static final int notification_bg_low_pressed = 0x7f080185;
+        public static final int notification_bg_normal = 0x7f080186;
+        public static final int notification_bg_normal_pressed = 0x7f080187;
+        public static final int notification_icon_background = 0x7f080188;
+        public static final int notification_template_icon_bg = 0x7f080189;
+        public static final int notification_template_icon_low_bg = 0x7f08018a;
+        public static final int notification_tile_bg = 0x7f08018b;
+        public static final int notify_panel_notification_icon_bg = 0x7f08018c;
     }
     public static final class id {
         public static final int action0 = 0x7f090006;
@@ -662,10 +662,10 @@ public final class R {
         public static final int title_template = 0x7f0901c2;
         public static final int top = 0x7f0901c5;
         public static final int topPanel = 0x7f0901c6;
-        public static final int up = 0x7f0901e3;
-        public static final int useLogo = 0x7f0901e5;
-        public static final int withText = 0x7f0901f0;
-        public static final int wrap_content = 0x7f0901f2;
+        public static final int up = 0x7f0901e4;
+        public static final int useLogo = 0x7f0901e6;
+        public static final int withText = 0x7f0901f1;
+        public static final int wrap_content = 0x7f0901f3;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur = 0x7f0a0000;

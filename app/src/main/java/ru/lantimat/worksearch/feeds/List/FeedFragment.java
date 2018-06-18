@@ -184,6 +184,6 @@ public class FeedFragment extends Fragment implements NewsMVP.View {
 
     @Override
     public void showError(String error) {
-
+        swipeContainer.setRefreshing(false);
     }
 }

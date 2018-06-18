@@ -48,7 +48,7 @@ public class NewsRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
                 ((NormalFeedViewHolder) holder).title.setText(title);
                 ((NormalFeedViewHolder) holder).subTitle.setText(subTitle);
                 ((NormalFeedViewHolder) holder).date.setText(date);
-                Picasso.get().load(image).placeholder(R.drawable.ic_launcher_background).into(((NormalFeedViewHolder) holder).mImg);
+                Picasso.get().load(image).into(((NormalFeedViewHolder) holder).mImg);
     }
 
     @Override

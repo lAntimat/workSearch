@@ -42,13 +42,14 @@
 
             <TextView
                 android:id="@+id/tvCompanyName"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
                 android:layout_marginEnd="8dp"
+                android:layout_marginRight="8dp"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="8dp"
-                android:text="google inc"
+                android:text="google inc111111111111111111111111111111111111"
                 card_view:layout_constraintBottom_toBottomOf="parent"
                 card_view:layout_constraintEnd_toStartOf="@+id/tvDate"
                 card_view:layout_constraintHorizontal_bias="0.0"

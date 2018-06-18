@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
         spinner = (Spinner) findViewById(R.id.spinner_nav);
         spinner.setVisibility(View.INVISIBLE);
 
-        color = ContextCompat.getColor(getApplicationContext(), R.color.accent);
+        color = ContextCompat.getColor(getApplicationContext(), R.color.primary);
 
         getSupportActionBar().setTitle("");
 
@@ -187,13 +187,13 @@ public class MainActivity extends AppCompatActivity {
 
             headerResult = new AccountHeaderBuilder()
                     .withActivity(this)
-                    .withHeaderBackground(R.drawable.ic_launcher_background)
+                    .withHeaderBackground(R.drawable.drawer_bg)
                     .addProfiles(profileDrawerItem)
             .build();
         } else {
             headerResult = new AccountHeaderBuilder()
                     .withActivity(this)
-                    .withHeaderBackground(R.drawable.ic_launcher_background)
+                    .withHeaderBackground(R.drawable.drawer_bg)
                     .build();
         }
 
@@ -221,14 +221,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void setupNavigationDrawer() {
         //if you want to update the items at a later time it is recommended to keep it in a variable
-        PrimaryDrawerItem news = new PrimaryDrawerItem().withIdentifier(1).withName(R.string.drawer_item_news).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
-        PrimaryDrawerItem vacancy = new PrimaryDrawerItem().withIdentifier(2).withName(R.string.drawer_item_vacancy).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
-        PrimaryDrawerItem googleForm = new PrimaryDrawerItem().withIdentifier(3).withName(R.string.drawer_item_google_form).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
+        PrimaryDrawerItem news = new PrimaryDrawerItem().withIdentifier(1).withName(R.string.drawer_item_news).withIcon(R.drawable.newspaper).withIconColor(color);
+        PrimaryDrawerItem vacancy = new PrimaryDrawerItem().withIdentifier(2).withName(R.string.drawer_item_vacancy).withIcon(R.drawable.tag).withIconColor(color);
+        PrimaryDrawerItem googleForm = new PrimaryDrawerItem().withIdentifier(3).withName(R.string.drawer_item_google_form).withIcon(R.drawable.google).withIconColor(color);
         SecondaryDrawerItem sign_exit;
         if(FirebaseAuth.getInstance().getCurrentUser()!=null) sign_exit = new SecondaryDrawerItem().withIdentifier(6).withName(R.string.drawer_item_exit).withIconColor(color);
         else sign_exit = new SecondaryDrawerItem().withIdentifier(6).withName(R.string.drawer_item_sign_in).withIconColor(color);
 
-        PrimaryDrawerItem about = new PrimaryDrawerItem().withIdentifier(5).withName(R.string.drawer_item_about).withIcon(R.drawable.ic_launcher_foreground).withIconColor(color);
+        PrimaryDrawerItem about = new PrimaryDrawerItem().withIdentifier(5).withName(R.string.drawer_item_about).withIcon(R.drawable.information_outline).withIconColor(color);
 
         //create the drawer and remember the `Drawer` result object
         result = new DrawerBuilder()

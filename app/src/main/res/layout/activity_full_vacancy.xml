@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:title="123"></android.support.v7.widget.Toolbar>
+        app:title=" "></android.support.v7.widget.Toolbar>
 
     <android.support.v4.widget.NestedScrollView
         android:id="@+id/nestedScrollView"
@@ -34,19 +34,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <TextView
-                android:id="@+id/tvDate"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:text="tvDate"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
-
             <ProgressBar
                 android:id="@+id/progressBar"
                 style="?android:attr/progressBarStyle"
@@ -57,164 +44,187 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="1.0" />
+                app:layout_constraintTop_toTopOf="parent" />
 
-            <TextView
-                android:id="@+id/tvName"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:text="tvName"
-                android:textColor="@color/md_black_1000"
-                android:textSize="20sp"
+            <android.support.constraint.ConstraintLayout
+                android:id="@+id/top_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvDate" />
+                app:layout_constraintTop_toTopOf="parent">
 
-            <TextView
-                android:id="@+id/tvSalary"
-                android:layout_width="wrap_content"
-                android:layout_height="17dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:text="TextView"
-                android:textSize="16sp"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvName" />
+                <TextView
+                    android:id="@+id/tvCityTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="16dp"
+                    android:text="Город:"
+                    android:textColor="@color/md_black_1000"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvSalary" />
 
-            <TextView
-                android:id="@+id/tvCityTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="16dp"
-                android:text="Город:"
-                android:textColor="@color/md_black_1000"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvSalary" />
+                <TextView
+                    android:id="@+id/tvContacts"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toEndOf="@+id/tvContactsTitle"
+                    app:layout_constraintTop_toBottomOf="@+id/tvCompanyTitle" />
 
-            <TextView
-                android:id="@+id/tvCompanyTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:text="Работодатель:"
-                android:textColor="@color/md_black_1000"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvWorkTypeTitle" />
+                <TextView
+                    android:id="@+id/tvName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:textColor="@color/md_black_1000"
+                    android:textSize="20sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvDate"
+                    tools:text="tvName" />
 
-            <TextView
-                android:id="@+id/tvCity"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="8dp"
-                android:text="Москва"
-                app:layout_constraintBottom_toBottomOf="@+id/tvCityTitle"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toEndOf="@+id/tvCityTitle"
-                app:layout_constraintTop_toTopOf="@+id/tvCityTitle" />
+                <TextView
+                    android:id="@+id/tvWorkTypeTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:text="Тип занятости"
+                    android:textColor="@color/md_black_1000"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvExpTitle" />
 
-            <TextView
-                android:id="@+id/tvExpTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:text="Требуемый опыт:"
-                android:textColor="@color/md_black_1000"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvCityTitle" />
+                <TextView
+                    android:id="@+id/tvCompany"
+                    android:layout_width="237dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/tvCompanyTitle"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/tvCompanyTitle"
+                    tools:text="google inc" />
 
-            <TextView
-                android:id="@+id/tvExp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
-                android:text="1 год"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toEndOf="@+id/tvExpTitle"
-                app:layout_constraintTop_toBottomOf="@+id/tvCityTitle" />
+                <TextView
+                    android:id="@+id/tvSalary"
+                    android:layout_width="wrap_content"
+                    android:layout_height="17dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:textSize="16sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvName"
+                    tools:text="TextView" />
 
-            <TextView
-                android:id="@+id/tvWorkTypeTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:text="Тип занятости"
-                android:textColor="@color/md_black_1000"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvExpTitle" />
+                <TextView
+                    android:id="@+id/tvContactsTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:text="Контакты:"
+                    android:textColor="@color/md_black_1000"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvCompanyTitle" />
 
-            <TextView
-                android:id="@+id/tvWorkType"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="8dp"
-                android:text="Полный день"
-                app:layout_constraintBottom_toBottomOf="@+id/tvWorkTypeTitle"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toEndOf="@+id/tvWorkTypeTitle"
-                app:layout_constraintTop_toTopOf="@+id/tvWorkTypeTitle" />
+                <TextView
+                    android:id="@+id/tvWorkType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/tvWorkTypeTitle"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toEndOf="@+id/tvWorkTypeTitle"
+                    app:layout_constraintTop_toTopOf="@+id/tvWorkTypeTitle"
+                    tools:text="Полный день" />
 
-            <TextView
-                android:id="@+id/tvFullText"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="16dp"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="24dp"
-                android:text="В крупную фирмы..."
-                android:textSize="16sp"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.531"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvContactsTitle" />
+                <TextView
+                    android:id="@+id/tvCompanyTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:textColor="@color/md_black_1000"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvWorkTypeTitle"
+                    android:text="Работодатель:" />
 
-            <TextView
-                android:id="@+id/tvCompany"
-                android:layout_width="237dp"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:text="google inc"
-                app:layout_constraintBottom_toBottomOf="@+id/tvCompanyTitle"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintTop_toTopOf="@+id/tvCompanyTitle" />
+                <TextView
+                    android:id="@+id/tvCity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/tvCityTitle"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toEndOf="@+id/tvCityTitle"
+                    app:layout_constraintTop_toTopOf="@+id/tvCityTitle"
+                    tools:text="Москва" />
 
-            <TextView
-                android:id="@+id/tvContactsTitle"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
-                android:text="Контакты:"
-                android:textColor="@color/md_black_1000"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tvCompanyTitle" />
+                <TextView
+                    android:id="@+id/tvFullText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:textSize="16sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.531"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvContactsTitle"
+                    tools:text="В крупную фирмы..." />
 
-            <TextView
-                android:id="@+id/tvContacts"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_marginEnd="8dp"
-                android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toEndOf="@+id/tvContactsTitle"
-                app:layout_constraintTop_toBottomOf="@+id/tvCompanyTitle" />
+                <TextView
+                    android:id="@+id/tvExp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toEndOf="@+id/tvExpTitle"
+                    app:layout_constraintTop_toBottomOf="@+id/tvCityTitle"
+                    tools:text="1 год" />
+
+                <TextView
+                    android:id="@+id/tvExpTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:text="Требуемый опыт:"
+                    android:textColor="@color/md_black_1000"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvCityTitle" />
+
+                <TextView
+                    android:id="@+id/tvDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="tvDate" />
+            </android.support.constraint.ConstraintLayout>
+
         </android.support.constraint.ConstraintLayout>
 
     </android.support.v4.widget.NestedScrollView>

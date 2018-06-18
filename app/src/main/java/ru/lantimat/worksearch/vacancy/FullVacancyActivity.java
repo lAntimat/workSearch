@@ -36,6 +36,7 @@ public class FullVacancyActivity extends AppCompatActivity {
     TextView tvName, tvDate, tvContacts, tvCompany, tvSalary, tvCity, tvExp, tvWorkType, tvFullText;
     ProgressBar progressBar;
     ImageView imageView;
+    View topContent;
     FirebaseFirestore db;
     //Toolbar back button click
     @Override
@@ -70,6 +71,8 @@ public class FullVacancyActivity extends AppCompatActivity {
         tvWorkType = findViewById(R.id.tvWorkType);
         tvFullText = findViewById(R.id.tvFullText);
         //htmlTextView = findViewById(R.id.html_text);
+        topContent = findViewById(R.id.top_content);
+        topContent.setVisibility(View.INVISIBLE);
 
         progressBar = findViewById(R.id.progressBar);
         progressBar.setVisibility(View.VISIBLE);
@@ -104,7 +107,7 @@ public class FullVacancyActivity extends AppCompatActivity {
     }
 
     public void updateUI(final Vacancy vacancy) {
-        toolbar.setTitle("Вакансия");
+        toolbar.setTitle("Просмотр вакансии");
         tvName.setText(vacancy.getName());
         tvCompany.setText(vacancy.getCompanyName());
         tvWorkType.setText(vacancy.getWorkType());
@@ -114,6 +117,7 @@ public class FullVacancyActivity extends AppCompatActivity {
         tvExp.setText(vacancy.getExperiency());
         tvCity.setText(vacancy.getCity());
         tvFullText.setText(vacancy.getFullText());
+        topContent.setVisibility(View.VISIBLE);
 
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
         if (user != null) {

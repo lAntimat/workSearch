@@ -138,17 +138,6 @@ public class VacancyFragment extends Fragment implements VacancyMVP.View {
                 android.R.color.holo_red_light);
     }
 
-
-    private void emptyPic() {
-        if (ar.size() == 0) {
-            imageView.setVisibility(View.VISIBLE);
-            textView.setVisibility(View.VISIBLE);
-        } else {
-            imageView.setVisibility(View.GONE);
-            textView.setVisibility(View.GONE);
-        }
-    }
-
     @Override
     public void onStop() {
         super.onStop();
@@ -184,6 +173,6 @@ public class VacancyFragment extends Fragment implements VacancyMVP.View {
 
     @Override
     public void showError(String error) {
-
+        swipeContainer.setRefreshing(false);
     }
 }

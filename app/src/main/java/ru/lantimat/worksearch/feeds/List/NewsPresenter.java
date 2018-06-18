@@ -50,6 +50,7 @@ public class NewsPresenter implements NewsMVP.Presenter {
             if(!isOnRefresh) view.showLoading();
             isLoading = true;
 
+            ar = new ArrayList<>();
             db.collection(FirestoreConst.NEWS).get()
                     .addOnSuccessListener(new OnSuccessListener<QuerySnapshot>() {
                         @Override
@@ -61,6 +62,7 @@ public class NewsPresenter implements NewsMVP.Presenter {
                             }
                             view.showData(ar);
                             view.hideLoading();
+                            isLoading = false;
                         }
                     });
         }

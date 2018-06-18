@@ -22,7 +22,7 @@ public final class R {
         public static final int ci_width = 0x7f040091;
     }
     public static final class drawable {
-        public static final int white_radius = 0x7f0801b7;
+        public static final int white_radius = 0x7f0801bd;
     }
     public static final class id {
         public static final int bottom = 0x7f090035;
@@ -40,7 +40,7 @@ public final class R {
         public static final int right = 0x7f090164;
         public static final int start = 0x7f09019a;
         public static final int top = 0x7f0901c5;
-        public static final int vertical = 0x7f0901e6;
+        public static final int vertical = 0x7f0901e7;
     }
     public static final class styleable {
         public static final int[] CircleIndicator = { 0x7f040089, 0x7f04008a, 0x7f04008b, 0x7f04008c, 0x7f04008d, 0x7f04008e, 0x7f04008f, 0x7f040090, 0x7f040091 };

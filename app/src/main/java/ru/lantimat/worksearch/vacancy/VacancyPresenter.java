@@ -50,7 +50,7 @@ public class VacancyPresenter implements VacancyMVP.Presenter {
         if(!isLoading) {
             if(!isOnRefresh) view.showLoading();
             isLoading = true;
-
+            ar = new ArrayList<>();
             db.collection(FirestoreConst.VACANCY).get()
                     .addOnSuccessListener(new OnSuccessListener<QuerySnapshot>() {
                         @Override
@@ -62,6 +62,7 @@ public class VacancyPresenter implements VacancyMVP.Presenter {
                             }
                             view.showData(ar);
                             view.hideLoading();
+                            isLoading = false;
                         }
                     });
         }
@@ -76,7 +77,7 @@ public class VacancyPresenter implements VacancyMVP.Presenter {
 
     @Override
     public void recyclerClick(int position) {
-        Intent intent = new Intent(context, FullNewsActivity.class);
+        Intent intent = new Intent(context, FullVacancyActivity.class);
         intent.putExtra("id", ar.get(position).getId());
         view.startFeedActivity(intent);
     }
