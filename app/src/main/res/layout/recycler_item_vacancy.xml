@@ -15,7 +15,7 @@
         android:layout_marginTop="8dp"
         android:foreground="?attr/selectableItemBackground"
         card_view:cardCornerRadius="6dp"
-        card_view:cardElevation="10dp"
+        card_view:cardElevation="4dp"
         card_view:layout_constraintBottom_toBottomOf="parent"
         card_view:layout_constraintEnd_toEndOf="parent"
         card_view:layout_constraintStart_toStartOf="parent"
