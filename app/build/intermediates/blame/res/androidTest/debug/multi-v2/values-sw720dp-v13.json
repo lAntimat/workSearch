@@ -1,6 +1,38 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\gabdrakhmanovII\\Documents\\GitHub2\\workSearch\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gabdrakhmanovII\\.gradle\\caches\\transforms-1\\files-1.1\\appintro-v4.2.3.aar\\a443248ebc896a55284481eb987628a2\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,58",
+                        "endOffsets": "108,167"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gabdrakhmanovII\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\7ccfab9b3484e46c83460a30ba453628\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,241",
+                        "endColumns": "68,68",
+                        "endOffsets": "236,305"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
             "map": [
                 {

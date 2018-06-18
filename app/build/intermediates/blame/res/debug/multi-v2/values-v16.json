@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "D:\\android projects\\GitHub2\\workSearch\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\f26a84f27d1f672a2a0daab128f6e375\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\gabdrakhmanovii\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\c704545009edb3cc65793c949204a63b\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\5301fde68e3e3d83780e7dd09db68d9e\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\gabdrakhmanovii\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4e24a4cdd58f3a7b2c35ed454775aa6d\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

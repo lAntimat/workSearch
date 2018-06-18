@@ -1,4 +1,4 @@
-#Sun Apr 01 11:33:51 MSK 2018
-base.0=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\63
+#Mon Apr 02 08:22:52 MSK 2018
+base.0=C\:\\Users\\gabdrakhmanovII\\Documents\\GitHub2\\workSearch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\63
 path.0=classes.dex
 renamed.0=classes.dex

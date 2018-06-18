@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\gabdrakhmanovII\\Documents\\GitHub2\\workSearch\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gabdrakhmanovII\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d1e71b7067a321aaac198ab49df865fd\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {

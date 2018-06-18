@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Sun Apr 01 14:00:46 MSK 2018
-1.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\assets\\debug
+#Mon Apr 02 08:21:06 MSK 2018
+1.base=C\:\\Users\\gabdrakhmanovII\\Documents\\GitHub2\\workSearch\\app\\build\\intermediates\\assets\\debug
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=ASSET
-0.path=crashlytics-build.properties
+0.path=fonts/materialdrawerfont-font-v5.0.0.ttf
 0.set=ASSET
-0.base=C\:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\assets\\debug
-1.path=fonts/materialdrawerfont-font-v5.0.0.ttf
+0.base=C\:\\Users\\gabdrakhmanovII\\Documents\\GitHub2\\workSearch\\app\\build\\intermediates\\assets\\debug
+1.path=crashlytics-build.properties

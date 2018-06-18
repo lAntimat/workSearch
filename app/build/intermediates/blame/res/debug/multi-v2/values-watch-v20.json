@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "D:\\android projects\\GitHub2\\workSearch\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\ce5be36ac1071ba4f7950ba4ecc2a4ee\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\gabdrakhmanovii\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.8.0.aar\\5a89469a039155e560c94a5ad07158c2\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

@@ -1,6 +1,40 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\gabdrakhmanovII\\Documents\\GitHub2\\workSearch\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gabdrakhmanovII\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d1e71b7067a321aaac198ab49df865fd\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gabdrakhmanovII\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\76c9f1a79fe2fea3338a07b0aa609b27\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {

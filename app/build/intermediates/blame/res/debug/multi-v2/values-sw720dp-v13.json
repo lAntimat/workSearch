@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\lAntimat\\StudioProjects\\work_search\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "outputFile": "D:\\android projects\\GitHub2\\workSearch\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\appintro-v4.2.3.aar\\e471318f7641335512a4f8a3c5e9cffe\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,58",
-                        "endOffsets": "108,167"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lAntimat\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\436da9283fa3f149d607f991fb59f4fd\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "source": "C:\\Users\\gabdrakhmanovii\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\6c593d7e14498709f1d1334a6ebb75d6\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "172,241",
                         "endColumns": "68,68",
                         "endOffsets": "236,305"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\gabdrakhmanovii\\.gradle\\caches\\transforms-1\\files-1.1\\appintro-v4.2.3.aar\\2d69701b5489160b21b89d3c26016009\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,58",
+                        "endOffsets": "108,167"
                     }
                 }
             ]
